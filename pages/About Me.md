@@ -5,4 +5,3 @@
 - Blog: http://pengx17.vercel.app/
 - Current Interests
   - Baby taking 🍼 👶🏻
-  - Taking notes in [[Logseq]] and making [[contributions]]
