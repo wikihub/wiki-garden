@@ -1,4 +1,10 @@
-[{:block/name "a",
+[{:block/name "2022-05-24",
+  :block/created-at 1653667048187,
+  :block/updated-at 1653667048187}
+ {:block/name "2022-05-27",
+  :block/created-at 1653666410311,
+  :block/updated-at 1653666410311}
+ {:block/name "a",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "about me",
@@ -31,15 +37,9 @@
  {:block/name "favorites",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
- {:block/name "fri, 2022/05",
-  :block/created-at 1653666121181,
-  :block/updated-at 1653666121181}
- {:block/name "fri, 2022/05/27",
-  :block/created-at 1653666047533,
-  :block/updated-at 1653666047533}
- {:block/name "friday, 27.05.2022",
-  :block/created-at 1653666266727,
-  :block/updated-at 1653666266727}
+ {:block/name "friday, 27-05-2022",
+  :block/created-at 1653667086724,
+  :block/updated-at 1653667086724}
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -49,9 +49,6 @@
  {:block/name "logseq",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
- {:block/name "may 24th, 2022",
-  :block/created-at 1653666047079,
-  :block/updated-at 1653666047079}
  {:block/name "now",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
