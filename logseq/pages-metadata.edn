@@ -29,11 +29,11 @@
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "fri, 2022/05",
-  :block/created-at 1653667649207,
-  :block/updated-at 1653667649207}
+  :block/created-at 1653672719382,
+  :block/updated-at 1653672719382}
  {:block/name "fri, 2022/05/27",
-  :block/created-at 1653667751727,
-  :block/updated-at 1653667751727}
+  :block/created-at 1653672501089,
+  :block/updated-at 1653672683939}
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -43,6 +43,9 @@
  {:block/name "logseq",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653672500625,
+  :block/updated-at 1653672500625}
  {:block/name "now",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -52,15 +55,6 @@
  {:block/name "todo",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
- {:block/name "tue, 2022",
-  :block/created-at 1653667649382,
-  :block/updated-at 1653667649382}
- {:block/name "tue, 2022/05",
-  :block/created-at 1653667649383,
-  :block/updated-at 1653667649383}
- {:block/name "tue, 2022/05/24",
-  :block/created-at 1653667649381,
-  :block/updated-at 1653667649381}
  {:block/name "wait",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
