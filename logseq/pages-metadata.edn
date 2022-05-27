@@ -1,10 +1,4 @@
-[{:block/name "2022-05-24",
-  :block/created-at 1653667048187,
-  :block/updated-at 1653667048187}
- {:block/name "2022-05-27",
-  :block/created-at 1653666410311,
-  :block/updated-at 1653666410311}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
  {:block/name "about me",
@@ -37,9 +31,12 @@
  {:block/name "favorites",
   :block/created-at 1641967503322,
   :block/updated-at 1641967503322}
- {:block/name "friday, 27-05-2022",
-  :block/created-at 1653667086724,
-  :block/updated-at 1653667086724}
+ {:block/name "fri, 2022/05",
+  :block/created-at 1653667649207,
+  :block/updated-at 1653667649207}
+ {:block/name "fri, 2022/05/27",
+  :block/created-at 1653667636732,
+  :block/updated-at 1653667636732}
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -58,6 +55,15 @@
  {:block/name "todo",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
+ {:block/name "tue, 2022",
+  :block/created-at 1653667649382,
+  :block/updated-at 1653667649382}
+ {:block/name "tue, 2022/05",
+  :block/created-at 1653667649383,
+  :block/updated-at 1653667649383}
+ {:block/name "tue, 2022/05/24",
+  :block/created-at 1653667649381,
+  :block/updated-at 1653667649381}
  {:block/name "wait",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
