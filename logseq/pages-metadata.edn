@@ -4,9 +4,6 @@
  {:block/name "about me",
   :block/created-at 1646985730446,
   :block/updated-at 1646985730446}
- {:block/name "amazon codeguru",
-  :block/created-at 1646985730459,
-  :block/updated-at 1646985730459}
  {:block/name "b",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
@@ -35,8 +32,8 @@
   :block/created-at 1653667649207,
   :block/updated-at 1653667649207}
  {:block/name "fri, 2022/05/27",
-  :block/created-at 1653667636732,
-  :block/updated-at 1653667636732}
+  :block/created-at 1653667751727,
+  :block/updated-at 1653667751727}
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}
