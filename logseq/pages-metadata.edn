@@ -37,6 +37,9 @@
  {:block/name "fri, 2022/05/27",
   :block/created-at 1653666047533,
   :block/updated-at 1653666047533}
+ {:block/name "friday, 27.05.2022",
+  :block/created-at 1653666266727,
+  :block/updated-at 1653666266727}
  {:block/name "in-progress",
   :block/created-at 1641967503323,
   :block/updated-at 1641967503323}

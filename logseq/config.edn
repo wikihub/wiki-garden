@@ -126,6 +126,6 @@
  :feature/enable-journals? true
  :default-home {:page "journals" :sidebar "contents"}
  :ui/show-brackets? true
- :journal/page-title-format "E, yyyy/MM/dd"
+ :journal/page-title-format "EEEE, dd.MM.yyyy"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["About Me"]}
