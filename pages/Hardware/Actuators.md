@@ -1,5 +1,5 @@
 ---
-title: "Actuators"
+title: Actuators
 linkTitle: "Actuators"
 weight: 20
 description: Actuators resources
