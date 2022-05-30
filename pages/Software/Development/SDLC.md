@@ -1,5 +1,4 @@
 ---
-title: "Software Development Life Cycle"  
 linkTitle: "Software Development Life Cycle"  
 date: 2022-02-21  
 weight: 60  
