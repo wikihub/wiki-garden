@@ -25,9 +25,6 @@
  {:block/name "\"apollo\"",
   :block/created-at 1653871646178,
   :block/updated-at 1653871646178}
- {:block/name "\"applications\"",
-  :block/created-at 1653871645025,
-  :block/updated-at 1653871645025}
  {:block/name "\"autocore\"",
   :block/created-at 1653871646184,
   :block/updated-at 1653871646184}
@@ -211,6 +208,9 @@
  {:block/name "\"machine learning\"",
   :block/created-at 1653872771127,
   :block/updated-at 1653872771127}
+ {:block/name "\"machine vision\"",
+  :block/created-at 1653873823881,
+  :block/updated-at 1653873823881}
  {:block/name "\"makers\"",
   :block/created-at 1653871644524,
   :block/updated-at 1653871644524}
