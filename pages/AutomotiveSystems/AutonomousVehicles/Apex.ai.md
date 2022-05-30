@@ -1,5 +1,6 @@
+title:: Apex.ai
 ---
-title: "Apex.ai"
+title: Apex.ai
 linkTitle: "Apex.ai"
 date: 2020-04-18
 description: News and resources on Apex.ai

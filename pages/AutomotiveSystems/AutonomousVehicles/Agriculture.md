@@ -1,5 +1,5 @@
 ---
-title: "Agriculture"
+title: Agriculture
 linkTitle: "Agriculture"
 date: 2020-02-06
 description: News and resources on autonomy in agriculture
@@ -10,7 +10,6 @@ description: News and resources on autonomy in agriculture
 * [Kubota](https://www.futurefarming.com/Machinery/Articles/2017/4/Kubota-launches-auto-steering-for-small-tractors-and-UTVs-902WP/)
 * [21 autonomous tractor projects around the world](https://www.futurefarming.com/Machinery/Articles/2019/11/21-autonomous-tractor-projects-around-the-world-501448E/)
 * [New Holland Drive](https://agriculture.newholland.com/nar/en-us/about-us/whats-up/news-events/2016/new-holland-nh-drive-new-concept-autonomous-tractor)
-
 ## Agritechnica 2019
 * [Agrointelli](http://www.agrointelli.com/)
 * [Commercial Vehicle Intelligent Control](http://www.uml-tech.com/)

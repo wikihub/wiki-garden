@@ -1,5 +1,5 @@
 ---
-title: "eMobility"
+title: eMobility
 linkTitle: "eMobility"
 weight: 30
 description: Resources for eMobility
@@ -9,12 +9,10 @@ description: Resources for eMobility
 ![](https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/04/sarit0405.jpg?quality=90&strip=all&w=564&type=webp)
 
 * [BlogTO: ELVY Sarit](https://www.blogto.com/tech/2021/04/factory-toronto-electric-vehicle/)
-   * [Frank Stronach: founder of Magna](https://en.wikipedia.org/wiki/Frank_Stronach) 
-
+ * [Frank Stronach: founder of Magna](https://en.wikipedia.org/wiki/Frank_Stronach)
 # Vancouver
 * [SOLO](https://electrameccanica.com/)
 * [ENVO Drive](https://envodrive.com/)
-
 # Electric Cars
 
 * [Solo](https://electrameccanica.com/solo/)
@@ -28,8 +26,6 @@ description: Resources for eMobility
 * [iEV XX](https://www.ievmotors.com/ievxx)
 * [Lazareth Amphibie](https://www.lazareth.fr/project/lazar)
 * [Cruser Sport](https://www.ecocruise.com/)
-
-
 # Velomobiles
 
 * [Top 10 velomobiles](https://www.youtube.com/watch?v=EBj1fZqWXsI)
@@ -44,14 +40,12 @@ description: Resources for eMobility
 * [Scouter Mobility](https://scoutermobility.com/)
 * [An overview of velocars](https://velocar.net/)
 * [JerryRigEverything's "The Rig": It's Not A Wheelchair](https://youtu.be/BMu61nPjNYA)
-
 # Trikes
 
 * [Taiga Bikes](https://us.tagabikes.com/)
 * [Wello](http://www.wello.io)
 * [Vanraam Transport Bikes](https://www.vanraam.com/en-gb/our-bikes/transport-bikes)
 * [Freedom concepts](https://www.freedomconcepts.com/)
-
 # Electric Bicycles
 
 * [ENVO Drive](https://envodrive.com/)
@@ -82,14 +76,12 @@ description: Resources for eMobility
 * [Benelli Bikes](https://benellibikes.ca)
 * [Lanke leisi Canada](https://www.lankeleisicanada.com/)
 * [Cannondale](https://www.cannondale.com/en)
-
 ## eBike Subscription
 
 * [Zygg - Toronto](https://www.ridezygg.com/)
 * [Ride Cycle - Rent to Own Subscription](https://www.ridecycle.ca/collections/folding-e-bikes-canada-collection)
 * [Bike Share Toronto](https://bikesharetoronto.com/)
 * [Zap Bike](https://zap.bike/)
-
 ## Parts
 
 * [Shimano STEPS](https://www.shimano-steps.com/e-bikes/north-america/en)
@@ -97,25 +89,19 @@ description: Resources for eMobility
 * [Redshift Sports: Shockstop suspension](https://redshiftsports.com/)
 * [Nobl Wheels](https://noblwheels.com)
 * [Reciprocators](https://reciprocators.ca/)
-
 ## Conversion Kits
 
 * [Swytch bike](https://www.swytchbike.com/p/universal-ebike-conversion-kit/)
-
 # Bicycles
-
 ## Bicycle Manufacturers
 
 * [Vanraam](https://www.vanraam.com/en-gb/our-bikes)
-
 ## Bicycle Applications
 
 * [Strava](https://www.strava.com/)
-
 ## Bicycle Accessories
 
 * [Quad lock case](https://www.quadlockcase.ca/collections/shop-ride)
-
 ## Bicycle Stores
 
 * [Bike Exchange](https://www.bikeexchange.ca/)
@@ -124,16 +110,12 @@ description: Resources for eMobility
 * [North49](https://north49brands.com/product-category/synergy/e-skateboards/)
 * [Bike Depot](https://www.bikedepot.com/)
 * [MEC](https://www.mec.ca/en/products/cycling/bikes/electric-bikes/c/1780?f=storeAvailability%3ANorth+York)
-
 ### Cycling Clothes
 * [Decathlon](https://www.decathlon.ca/en/13924-bike-men-clothing)
 * [Sporting Life: Cycling Clothes](https://www.sportinglife.ca/en-CA/men/lifestyles/cycle/)
-
 ## Bicycle Rentals
 
 * [Sport Rentals](https://sportrentals.ca/)
-
-
 ## Bicycle Communities
 
 * [Cycling in Ontario 2021](https://www.transportationoptions.org/uploads/8/7/2/0/8720033/cio2021-eng-small.pdf)
@@ -141,8 +123,6 @@ description: Resources for eMobility
 * [Hamilton cycling communities](https://hamiltontrike.com/pages/community)
 * [Great Cycling Challenge](https://greatcyclechallenge.ca/)
 * [Bike Hub: British Columbia](https://bikehub.ca/)
-
 # Motorcycles
-
 ## Motorcycle Apps
 * [Tonit](https://www.tonit.com/)
