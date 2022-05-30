@@ -1,5 +1,5 @@
 ---
-title: "Machine Vision"
+title: Machine Vision
 linkTitle: "Machine Vision"
 date: 2021-09-19
 weight: 30
