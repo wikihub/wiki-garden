@@ -1,6 +1,6 @@
 ---
-title: "NVIDIA"
-linkTitle: "NVIDIA"
+title: "NVIDIA DRIVE"
+linkTitle: "NVIDIA DRIVE"
 date: 2020-02-06
 description: News and resources on NVIDIA
 ---

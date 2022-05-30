@@ -205,6 +205,9 @@
  {:block/name "\"lidars\"  ",
   :block/created-at 1653871645193,
   :block/updated-at 1653871645193}
+ {:block/name "\"machine learning for autonomous driving\"",
+  :block/created-at 1653874263495,
+  :block/updated-at 1653874263495}
  {:block/name "\"machine learning\"",
   :block/created-at 1653872771127,
   :block/updated-at 1653872771127}
