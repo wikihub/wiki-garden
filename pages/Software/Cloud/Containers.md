@@ -1,23 +1,21 @@
 ---
-title: "Containers"
+title: Containers
 linkTitle: "Containers"
 date: 2019-04-11
 weight: 25
 description: News and information about containers
 ---
+
 # Design Patterns
 * [Containers Patterns](https://l0rd.github.io/containerspatterns/#1)
-
 # Docker Swarm
 
 * [Roo](https://github.com/sfproductlabs/roo)
-
 # Podman
 * [Container Toolkit and Podman](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
 * [From Docker Compose to Kubernetes with Podman](https://www.redhat.com/sysadmin/compose-kubernetes-podman)
 * [Podman and Kubernetes](https://www.redhat.com/sysadmin/podman-inside-kubernetes)
 * `sudo podman run --rm --runtime=nvidia nvidia/cuda:11.0-base nvidia-smi`
-
 # Docker
 * [Install Docker on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
@@ -39,7 +37,6 @@ description: News and information about containers
 * [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 * [GPU support on docker-compose](https://docs.docker.com/compose/gpu-support/)
 * [Docker Swarm](https://dockerswarm.rocks/)
-
 ## Getting started
 
 * [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
@@ -50,27 +47,25 @@ description: News and information about containers
 * Set the default runtime `/etc/docker/daemon.json`:
 ```
 {
-    "runtimes": {
-        "nvidia": {
-            "path": "nvidia-container-runtime",
-            "runtimeArgs": []
-        }
-    },
-    "default-runtime": "nvidia",
-    "runtimes": {
-        "nvidia": {
-            "path": "nvidia-container-runtime",
-            "runtimeArgs": []
-        }
-    }
+  "runtimes": {
+      "nvidia": {
+          "path": "nvidia-container-runtime",
+          "runtimeArgs": []
+      }
+  },
+  "default-runtime": "nvidia",
+  "runtimes": {
+      "nvidia": {
+          "path": "nvidia-container-runtime",
+          "runtimeArgs": []
+      }
+  }
 }
 ```
-
 ## Images
 
 * [linuxserver.io](https://docs.linuxserver.io/)
 * [minidocks](https://github.com/minidocks)
-
 ## Learning
 * [Docker reference](https://docs.docker.com/reference/)
 * [An Introduction to Docker](http://odewahn.github.io/docker-jumpstart/)
@@ -81,7 +76,6 @@ description: News and information about containers
 * [Slash Docker?](https://runnable.com/docker/)
 * [Awesome Docker](https://awesome-docker.netlify.app/)
 * [Ahmad Rafiee: Docker training with DockerMe](https://github.com/AhmadRafiee/Docker_training_with_DockerMe)
-
 ## Prune  
 * Remove all the images without a tag: `docker rmi $(docker images -f dangling=true -q)`
 * Remove `<none>` images: `docker rmi $(docker images |grep "<none>"|awk '$1=="<none>" {print $3}')`
@@ -90,45 +84,33 @@ description: News and information about containers
 * Check storage with `sudo baobab`
 * [How to clean up Docker](https://stackoverflow.com/questions/45798076/how-to-clean-up-docker)
 * Remove all the containers: `docker rm $(docker ps -a -q)`
-
 ## Applied Docker images
 * [linuxserver.io](https://www.linuxserver.io/)
-
 ## Heroku Buildpacks
 * [Buildpacks](https://devcenter.heroku.com/articles/buildpacks)
-
 ## Distroless containers
 * [Google Distroless Containers](https://github.com/GoogleContainerTools/distroless)
-
 ## Docker on WSL2
 * [Getting started with CUDA on Ubuntu on WSL2](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
 * [WSL user guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
 * [GPU acceleration on WSL](https://docs.microsoft.com/en-us/windows/win32/direct3d12/gpu-accelerated-training)
-
 ## Docker tools
 * [Kubler](https://www.elttam.com/blog/kubler/)
 * [Nautilus](https://nautilusdev.com/)
 * [Docuum](https://github.com/stepchowfun/docuum)
 * [Dive](https://github.com/wagoodman/dive)
-
 # Container Management
 * [Taison](https://www.taisun.io/)
 * [Yacht](https://yacht.sh/)
-    
 ## Portainer
 * [Central Authentication and SSO](https://blog.gurucomputing.com.au/doing-more-with-docker/central-authentication-and-sso/)
-
-    
 # Local Development Environment
 * [Visual Studio Code: Create dev container](https://code.visualstudio.com/docs/remote/create-dev-container)
 * [runnable](https://runnable.com/)
-  
 # Tools
 * [Bolt](https://puppetlabs.github.io/bolt/)
-
 # Containerd
 * [Containerd](https://containerd.io/)
-
 # Registries
 * [Portainer](https://www.portainer.io/)
 * [Instana](https://www.instana.com/)
@@ -139,10 +121,8 @@ description: News and information about containers
 * [Pouch container](https://pouchcontainer.io/)
 * [Containerd](https://containerd.io/)
 * [jFrog](https://jfrog.com/)
-
 # Singularity
 * [Singularity Documentation](https://www.sylabs.io/docs/)
-
 # Virtualization
 * [Xen project](https://xenproject.org/)
 * [QEMU](https://elinux.org/R-Car/Virtualization#Virtualization_with_QEMU)

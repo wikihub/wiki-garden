@@ -1,5 +1,5 @@
 ---
-title: "ROS2 Demos"
+title: ROS2 Demos
 linkTitle: "ROS2 Demos"
 date: 2019-04-18
 description: News and information about demos for ROS2
