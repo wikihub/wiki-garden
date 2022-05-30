@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Dynamics"
+title: Vehicle Dynamics
 linkTitle: "Vehicle Dynamics"
 weight: 5
 description: Vehicle Dynamics
