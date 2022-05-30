@@ -1,5 +1,5 @@
 ---
-title: "Networking"
+title: Networking
 linkTitle: "Networking"
 weight: 20
 ---
