@@ -1,5 +1,5 @@
 ---
-title: "Manipulators"
+title: Manipulators
 linkTitle: "Manipulators"
 weight: 30
 description: Resources for manipulators
