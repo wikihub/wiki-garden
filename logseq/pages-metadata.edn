@@ -1,24 +1,12 @@
-[{:block/name "\"canadian c",
-  :block/created-at 1653871646370,
-  :block/updated-at 1653871646370}
- {:block/name "\"embedded systems\"",
+[{:block/name "\"embedded systems\"",
   :block/created-at 1653871644473,
   :block/updated-at 1653871644473}
- {:block/name "\"lidars\"",
-  :block/created-at 1653880122395,
-  :block/updated-at 1653880122395}
- {:block/name "\"lidars\"  ",
-  :block/created-at 1653871645193,
-  :block/updated-at 1653871645193}
  {:block/name "\"nav2\"",
-  :block/created-at 1653879059784,
-  :block/updated-at 1653879059784}
+  :block/created-at 1653880825373,
+  :block/updated-at 1653880825373}
  {:block/name "\"nav2\"  ",
   :block/created-at 1653871646676,
   :block/updated-at 1653871646676}
- {:block/name "\"software development life cycle\"",
-  :block/created-at 1653877578099,
-  :block/updated-at 1653877578099}
  {:block/name "\"software development life cycle\"  ",
   :block/created-at 1653871647297,
   :block/updated-at 1653871647297}
@@ -403,9 +391,6 @@
  {:block/name "natural language processing",
   :block/created-at 1653871645789,
   :block/updated-at 1653871645789}
- {:block/name "nav2",
-  :block/created-at 1653878638509,
-  :block/updated-at 1653878638509}
  {:block/name "navigation",
   :block/created-at 1653871645321,
   :block/updated-at 1653871645321}
@@ -577,9 +562,6 @@
  {:block/name "software development",
   :block/created-at 1653872251510,
   :block/updated-at 1653872251510}
- {:block/name "software development life cycle",
-  :block/created-at 1653876931575,
-  :block/updated-at 1653876931575}
  {:block/name "software engineering",
   :block/created-at 1653871645928,
   :block/updated-at 1653871645928}
