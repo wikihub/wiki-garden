@@ -1,5 +1,5 @@
 ---
-title: "Hardware"
+title: Hardware
 linkTitle: "Hardware"
 weight: 20
 description: Hardware resources
@@ -17,7 +17,6 @@ description: Hardware resources
 * [tindie](https://www.tindie.com/)
 * [Rev Robotics](http://www.revrobotics.com/)
 * [Drop](https://drop.com/)
-
 ## Canada
 
 * [Mouser](https://www.mouser.ca)
@@ -25,21 +24,17 @@ description: Hardware resources
 * [Digikey](https://www.digikey.ca)
 * [Robotshop](https://www.robotshop.com/ca/en/)
 * [Solarbotics](https://solarbotics.com/)
-
 ## Ontario
 
 * [Electromaker](https://www.electromaker.io)
 * [Elmwood Electronics](https://elmwoodelectronics.ca/)
 * [Sayal](https://shop.sayal.com/)
 * [Corpshadow](https://corpshadow.biz/)
-
 # Manufacturing
 
 * [101RP in Shenzhen](http://www.101rp.com/)
-
 # PCB
 
 * [Seeed Fusion PCB & PCB Assembly](https://www.seeedstudio.com/fusion.html)
-
 # DIN Rails
 * [DIN Plate](https://pi-plates.com/dinplate/)

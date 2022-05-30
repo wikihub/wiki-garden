@@ -1,5 +1,5 @@
 ---
-title: "Career"
+title: Career
 linkTitle: "Career"
 weight: 200
 description: Resources for making progress in your career
