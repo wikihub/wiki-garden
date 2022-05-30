@@ -1,5 +1,5 @@
 ---
-title: "LG"
+title: LG
 linkTitle: "LG"
 date: 2020-03-31
 description: News and resources on LG Silicon Valley Lab
