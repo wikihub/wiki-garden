@@ -1,5 +1,5 @@
 ---
-title: "Games"
+title: Games
 linkTitle: "Games"
 date: 2021-11-27
 weight: 70
