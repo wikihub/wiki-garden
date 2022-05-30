@@ -1,5 +1,5 @@
 ---
-title: "Makers"
+title: Makers
 linkTitle: "Makers"
 weight: 20
 description: Maker zone
