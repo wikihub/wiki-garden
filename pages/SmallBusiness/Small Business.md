@@ -1,9 +1,10 @@
 ---
-title: "Small Business"
+title: Small Business
 linkTitle: "Small Business"
 weight: 200
 description: Resources for running a small business
 ---
+
 ## Accounting
 
 * [Sage 50](https://www.sage.com/en-ca/products/sage-50cloud/)
@@ -23,10 +24,8 @@ description: Resources for running a small business
 * [Best Accounting Software for Small Business](https://www.investopedia.com/best-accounting-software-for-small-business-5069679)
 * [Free and low-cost accounting and invoicing software for your business](https://www.bdc.ca/en/articles-tools/technology/free-low-cost-applications/accounting-software-free-low-cost-options)
 * [Beancount](https://github.com/beancount/beancount)
-
 ### Accounting Tips
 * [How can I record a cash back to my credit card account?](https://quickbooks.intuit.com/learn-support/en-ca/supplier-credits/how-can-i-record-a-cash-back-to-my-credit-card-account/00/262100?cid=ppc_G__CA_.QBO_CA_DSA_Support_tROAS_G_S_FY22.__txt&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMJIj-HGPREwl5KVKO4AiBUwjtggNUdQFdWRcV5PvRUF52JemLCmf6RoCZ_MQAvD_BwE&gclsrc=aw.ds)
-
 # Corporate Tax
 * [Tax 2000: Brian Allward](https://www.tax2000.ca/corptax.html)
 * [T2Inc](https://t2inc.ca/en/services/business-tax)
@@ -44,32 +43,26 @@ description: Resources for running a small business
 * [WebTax4B.ca](https://secure.macront.com/WebTax4B.ca/)
 * [GIFI - Importing a Microsoft Excel™ File](https://support.wolterskluwer.ca/en/support/newsdetail.asp?d=1514)
 * [How to Prepare a T2 Corporate Income Tax Return - Detailed](https://youtu.be/M1fAymgv6xg)
-
 # Personal Tax
 
 * [GenuTax](https://www.genutax.ca/)
-
 # Phone
 
 * [VOIP.ms](https://www.voip.ms)
 * [Flowroute](https://www.flowroute.com)
 * [Anveo](https://www.anveo.com)
-
 # Printing
 
 * [High Quality Business Card Printing Services Toronto | Printcloud Inc.](https://www.printcloud.ca/)
 * [Custom Online Business Printing & Design | MOO CA](https://www.moo.com/ca/)
 * [TPH® The Printing House - Business Printing Solutions](https://www.tph.ca/)
-
 # Patents
 
 * [Tutorial — Your patent application](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr01398.html)
-
 # USA
 
 * [SBIR](https://www.sbir.gov/)
 * [Ice Cores](https://icecores.org/)
-
 # Hiring
 
 * [How to prepare for an interview at Geotab](https://www.geotab.com/blog/how-to-prepare-for-an-interview/)
