@@ -1,6 +1,5 @@
 ---
-title: "Lidars"  
-linkTitle: "Lidars"  
+linkTitle: Lidars  
 weight: 30  
 description: Resources for lidars
 ---
