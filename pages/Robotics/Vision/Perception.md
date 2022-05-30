@@ -1,6 +1,6 @@
 ---
-title: "Machine Vision"
-linkTitle: "Machine Vision"
+title: "Perception"
+linkTitle: "Perception"
 weight: 20
 description: Resources on machine vision for robots
 ---
