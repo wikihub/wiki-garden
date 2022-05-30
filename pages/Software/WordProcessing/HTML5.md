@@ -1,5 +1,5 @@
 ---
-title: "HTML5"
+title: HTML5
 linkTitle: "HTML5"
 date: 2019-03-07
 description: News and information about HTML5
@@ -19,16 +19,13 @@ description: News and information about HTML5
 
 * [Brackets](http://brackets.io/)
 * [Adapt Learning](https://community.adaptlearning.org/)
-
 # CSS
 
 * [CSS Zen Garden](http://csszengarden.com/)
 * [CSS text animation](http://jschr.github.io/textillate/)
-
 # Math
 
 * [Mathjax lazyload](https://github.com/Dashed/mathjax-lazyload)
-
 # Books
 
 * [HTMLBook](https://github.com/oreillymedia/HTMLBook)
@@ -44,11 +41,9 @@ description: News and information about HTML5
 * [Kotobee](http://www.kotobee.com/)
 * [Soft Cover](https://www.softcover.io/)
 * [Digital Publishing](http://getdpd.com/)
-
 # Games
 
 * [Coloring game](http://codecanyon.net/item/coloring-book-html5-game/6163303)
-
 # RTL Support
 
 * [Readying your site for RTL](http://tech.pro/tutorial/1738/readying-your-site-for-rtl)
