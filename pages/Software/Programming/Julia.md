@@ -1,5 +1,5 @@
 ---
-title: "Julia"
+title: Julia
 linkTitle: "Julia"
 weight: 25
 description: Resources for Julia computing

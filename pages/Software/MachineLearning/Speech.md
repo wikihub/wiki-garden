@@ -1,5 +1,5 @@
 ---
-title: "Speech"
+title: Speech
 linkTitle: "Speech"
 date: 2021-05-06
 weight: 50
@@ -8,17 +8,14 @@ description: News and information about Speech synthesis and voice analysis
 
 # Datasets
 * [LJ Speech Dataset](https://keithito.com/LJ-Speech-Dataset/)
-
 # Audio Players
 * [sox](http://sox.sourceforge.net/)
-
 # Speech Toolkits
 * [espnet](https://github.com/espnet/espnet)
 * [Merlin](https://github.com/CSTR-Edinburgh/merlin)
 * [Silero Models](https://github.com/snakers4/silero-models)
 * [aeneas: automagically synchronize audio and text (aka forced alignment)](https://www.readbeyond.it/aeneas/)
 * [awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
-
 ## Speech Synthesis
 * [Resemble.ai](https://www.resemble.ai/)
 * [Mozilla TTS](https://github.com/mozilla/TTS/)
@@ -32,7 +29,6 @@ description: News and information about Speech synthesis and voice analysis
 * [larynx](https://github.com/rhasspy/larynx)
 * [Parallel WaveGAN](https://kan-bayashi.github.io/ParallelWaveGAN/)
 * [MockingBird](https://github.com/babysor/MockingBird)
-
 ### Persian
 * [Lilak project](http://lilak-project.com)
 * [Tihu](https://github.com/tihu-nlp/tihu)
@@ -42,13 +38,11 @@ description: News and information about Speech synthesis and voice analysis
 * [Ariana](http://www.nevisasoft.com/other-products/ariana)
 * [Gata](https://www.msgata.com/Products/TextToSpeech)
 * [Amer Andish](https://amerandish.com/)
-
 ## Voice assistants
 * [leon](https://github.com/leon-ai/leon)
 * [rhasspy](https://github.com/rhasspy/rhasspy)
 * [Kalliope Project](https://kalliope-project.github.io/)
 * [Dragonfire](https://github.com/DragonComputer/Dragonfire)
-
 ## NVIDIA
 * [NeMo - Text to Speech](https://ngc.nvidia.com/catalog/collections/nvidia:nemo_tts)
 * [NVIDIA Nemo](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/intro.html)
@@ -60,14 +54,11 @@ description: News and information about Speech synthesis and voice analysis
 * [Generate Natural Sounding Speech from Text in Real-Time](https://developer.nvidia.com/blog/generate-natural-sounding-speech-from-text-in-real-time/)
 * [All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech](https://www.youtube.com/watch?v=RknIx6XmffA)
 * [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://nv-adlr.github.io/Flowtron)
-
 # Text to Speech
 * [NVIDIA Blog: Speech Synthesis](https://developer.nvidia.com/blog/tag/speech-synthesis/)
 * [Building a Text-to-Speech Service that Sounds like You, Using NVIDIA NGC and NVIDIA A100 GPUs](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32117/)
 * [All the Feels: NVIDIA Shares Expressive Speech Synthesis Research at Interspeech](https://blogs.nvidia.com/blog/2021/08/31/conversational-ai-research-speech-synthesis-interspeech/)
 * [Text to speech: Isaac SDK](https://docs.nvidia.com/isaac/archive/2020.1/packages/audio/doc/text_to_speech.html)
-
-
 # Conversation
 
 * [alexar](https://github.com/jhudsl/alexar)

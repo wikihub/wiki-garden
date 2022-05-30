@@ -1,5 +1,5 @@
 ---
-title: "NLP"
+title: NLP
 linkTitle: "NLP"
 date: 2021-10-10
 weight: 50

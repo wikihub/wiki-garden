@@ -1,5 +1,5 @@
 ---
-title: "Java"
+title: Java
 linkTitle: "Java"
 weight: 25
 description: Resources for Java computing
