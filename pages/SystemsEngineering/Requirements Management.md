@@ -1,5 +1,5 @@
 ---
-title: "Requirements Management"
+title: Requirements Management
 linkTitle: "Requirements Management"
 weight: 15
 description: Resources and tools for requirements management
@@ -17,13 +17,10 @@ description: Resources and tools for requirements management
 * [rmToo](http://rmtoo.florath.net/)
 * [osrmt](https://github.com/osrmt/osrmt/)
 * [aNimble](https://sourceforge.net/projects/nimble/)
-
 # Jira
 * [OpenReq](https://openreq.eu/)
-
 # Living Documents
 * [LivingDoc](https://github.com/LivingDoc)
-
 # Behaviour Driven Development
 * [Behaviour Driven Development](https://cucumber.io/docs/bdd/)
 * [What's in a story](https://dannorth.net/whats-in-a-story/)
@@ -32,22 +29,17 @@ description: Resources and tools for requirements management
 * [Kick Start and Scale Behavior Driven Development](https://cucumber.io/resources/ebooks/kick-start-and-scale-behavior-driven-development/)
 * [BDD 101: Writing Good Gherkin](https://automationpanda.com/2017/01/30/bdd-101-writing-good-gherkin/)
 * [Behavior-Driven Development](https://automationpanda.com/bdd/)
-
 ## Gherkin
 * [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 * [4 rules for writing good Gherkin](https://techbeacon.com/app-dev-testing/better-behavior-driven-development-4-rules-writing-good-gherkin)
 * [SpecFlow](https://specflow.org/gherkin-editor/)
 * [Gherkin to Markdown](https://github.com/raviqqe/gherkin2markdown)
-
 ## C++
 * [cucumber-cpp](https://github.com/cucumber/cucumber-cpp/wiki)
 * [C++Spec](https://toroidal-code.github.io/cppspec/)
-
 # Traceability Management
 * [Capra](https://wiki.eclipse.org/Capra)
-
 # Test Automation
 * [Robot Framework](https://robotframework.org/)
-
 # Robotics
 * [Autonomous Valet Parking (AVP) requirements](https://avp-project.uk/wp-content/uploads/2019/12/AVP-Requirements-Car-Park.pdf)
