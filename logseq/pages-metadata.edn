@@ -31,6 +31,9 @@
  {:block/name "\"automotive systems\"",
   :block/created-at 1653871644217,
   :block/updated-at 1653871644217}
+ {:block/name "\"autonomous hardware\"",
+  :block/created-at 1653875328609,
+  :block/updated-at 1653875328609}
  {:block/name "\"autonomous racing\"",
   :block/created-at 1653871646193,
   :block/updated-at 1653871646193}
