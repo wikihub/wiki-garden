@@ -1,5 +1,5 @@
 ---
-title: "OCaml"
+title: OCaml
 linkTitle: "OCaml"
 weight: 25
 description: Resources for OCaml programming

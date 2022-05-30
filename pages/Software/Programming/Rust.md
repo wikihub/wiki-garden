@@ -1,5 +1,5 @@
 ---
-title: "Rust"
+title: Rust
 linkTitle: "Rust"
 weight: 25
 description: Resources for Rust programming
