@@ -1,6 +1,6 @@
 ---
-title: "Simulation"
-linkTitle: "Simulation"
+title: "Robotics Simulation"
+linkTitle: "Robotics Simulation"
 date: 2019-02-22
 description: News and information about simulation environments
 ---
