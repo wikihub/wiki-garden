@@ -1,5 +1,5 @@
 ---
-title: "Delivery Robots"
+title: Delivery Robots
 linkTitle: "Delivery Robots"
 weight: 30
 description: Resources for delivery robots

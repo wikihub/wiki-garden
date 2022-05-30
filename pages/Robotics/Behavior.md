@@ -1,5 +1,5 @@
 ---
-title: "Behavior"
+title: Behavior
 linkTitle: "Behavior"
 weight: 20
 description: Resources about robotic behaviors
@@ -10,7 +10,6 @@ description: Resources about robotic behaviors
 # Behavioral Logic
 
 * [Behavioral Logic](http://behaviorallogic.com/)
-
 # Behavior Trees
 * [BehaviorTree.CPP](https://www.behaviortree.dev/)
 * [Owyl](https://github.com/eykd/owyl)
@@ -29,10 +28,8 @@ description: Resources about robotic behaviors
 * [Beetree](github.com/futureneer/beetree)
 * [UnrealEngine Behavior Trees](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/ArtificialIntelligence/BehaviorTrees/)
 * [Metacontrol for ROS2 systems (MROS)](https://robmosys.eu/mros/)
-
 ## JavaScript
 * [npm keyword:behavior-tree](https://npm.io/search/keyword:behavior-tree)
-
 # Finaite State Machines
 
 * [QP Model Based Design Tool](https://www.state-machine.com/products/qm)
