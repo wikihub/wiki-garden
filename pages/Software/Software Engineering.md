@@ -1,5 +1,5 @@
 ---
-title: "Software Engineering"
+title: Software Engineering
 linkTitle: "Software Engineering"
 date: 2019-02-22
 weight: 10

@@ -1,5 +1,5 @@
 ---
-title: "Cyber-Physical Systems"
+title: Cyber-Physical Systems
 linkTitle: "Cyber-Physical Systems"
 weight: 15
 description: Resources and tools for Cyber-Physical Systems

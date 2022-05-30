@@ -1,5 +1,5 @@
 ---
-title: "FMI"
+title: FMI
 linkTitle: "FMI"
 weight: 15
 description: Resources and tools for functional mock-up interface
