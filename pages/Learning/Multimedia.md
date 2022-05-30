@@ -1,5 +1,5 @@
 ---
-title: "Multimedia"
+title: Multimedia
 linkTitle: "Multimedia"
 weight: 70
 description: Resources for multimedia
