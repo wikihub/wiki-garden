@@ -1,5 +1,5 @@
 ---
-title: "Android"
+title: Android
 linkTitle: "Android"
 date: 2021-11-13
 weight: 70
