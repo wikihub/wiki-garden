@@ -1,5 +1,5 @@
 ---
-title: "Simulation"
+title: Simulation
 linkTitle: "Simulation"
 date: 2019-03-07
 weight: 50
@@ -9,17 +9,14 @@ description: News and information about simulation and 3D virtual environments
 # OpenGL
 
 * [Linux GPU Benchmark](https://www.howtoforge.com/tutorial/linux-gpu-benchmark/)
-
 # Web
 
 * [Bodylight.js](https://creative-connections.github.io/bodylight.js/)
 * [Visual Components](https://www.visualcomponents.com/)
-
 # 3D Design
 * [Blender 3D](https://www.blender.org/)
-    * [Blender Questions](https://blender.stackexchange.com/)
-* [Tinkercad](https://www.tinkercad.com/)  
-
+  * [Blender Questions](https://blender.stackexchange.com/)
+* [Tinkercad](https://www.tinkercad.com/)
 # 3D Models
 * [Popular models | 3D CAD Model Collection | GrabCAD Community Library](https://grabcad.com/library)
 * [My Hub | CGTrader](https://www.cgtrader.com/)
@@ -45,35 +42,28 @@ description: News and information about simulation and 3D virtual environments
 * [Download All | SketchUp](https://www.sketchup.com/download/all)
 * [ARGO J6 Atlas XTR 3D | CGTrader](https://www.cgtrader.com/3d-models/vehicle/other/argo-j6-atlas-xtr)
 * [ARGO XTR robotic mobility solutions](http://www.argo-xtr.com/)
-
 # Industry 4.0
 
 * [IBM Smart Manufacturing Technology](https://www.ibm.com/industries/manufacturing/smart-manufacturing-technology)
 * [Octopuz](https://octopuz.com/)
-
 # 3D Modeling
-
 ## 3D Reconstruction 
 
 * [Capturing Reality](https://www.capturingreality.com)
-
 ## LiDAR
 
 * [LiDAR Sensors](https://3dinsider.com/lidar-sensors/)
-
 ## GoPro 3D
 
 * [GoPro 3D Hero System](https://www.thevisorshop.com/en/GoPro-3D-Hero-System/m-16073.aspx)
 * [GoPro Dual HERO System for HERO3+](https://www.amazon.ca/GoPro-System-HERO3-Camera-included/dp/B00J9RO4U2)
 * [GoPro Nippon Japanese Regular Edition](https://www.amazon.ca/GoPro-Japanese-Regular-Premium-Accessory/dp/B004VQAZ54)
-
 ## 3D Scanning Service
 
 * [EllisDon](http://www.ellisdon.com/subservice/3d-scanning/)
 * [PIX4D](https://www.pix4d.com/industry/real-estate)
 * [Matter Port: 3D Capture for All](https://matterport.com/)
 * [Extreme Measures](https://www.xmeasures.com)
-
 ### Vancouver
 
 * [Scanlab](https://scanlab.ca/)
@@ -81,16 +71,13 @@ description: News and information about simulation and 3D virtual environments
 * [Underhill](http://www.underhill.ca/land-surveying-service/4/3d-laser-scanning)
 * [3D RevEng](http://www.3dreveng.com/)
 * [Corel3D](http://corbel3d.com/)
-
 ## Drone Mapping Services
 
 * [The Sky Guys](https://theskyguys.ca/)
 * [Drone based LiDAR](https://www.precisionhawk.com/blog/media/topic/drone-based-lidar-know)
-
 # Computational 3D Object Manipulation 
 
 * [Makie](https://github.com/JuliaPlots/Makie.jl)
-
 # Heat
 
 * [CENOS](https://documentation.cenos-platform.com/docs/getting-started/cenos-overview)

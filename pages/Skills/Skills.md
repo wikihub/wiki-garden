@@ -1,5 +1,5 @@
 ---
-title: "Skills"
+title: Skills
 linkTitle: "Skills"
 weight: 20
 description: Resources on skills
