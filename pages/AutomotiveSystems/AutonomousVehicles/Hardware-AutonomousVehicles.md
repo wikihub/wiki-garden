@@ -1,6 +1,6 @@
 ---
-title: "Hardware"
-linkTitle: "Hardware"
+title: "Autonomous Hardware"
+linkTitle: "Autonomous Hardware"
 weight: 5
 description: Hardware suppliers for autonomous vehicles
 ---
