@@ -322,6 +322,9 @@
  {:block/name "\"robotics applications\"",
   :block/created-at 1653872148331,
   :block/updated-at 1653872148331}
+ {:block/name "\"robotics simulation\"",
+  :block/created-at 1653874034871,
+  :block/updated-at 1653874034871}
  {:block/name "\"robotics\"",
   :block/created-at 1653871645502,
   :block/updated-at 1653871645502}
