@@ -1,5 +1,5 @@
 ---
-title: "Cloud Computing"
+title: Cloud Computing
 linkTitle: "Cloud Computing"
 date: 2021-05-06
 weight: 70
@@ -7,7 +7,6 @@ description: News and information about cloud computing services
 ---
 
 # Cloud Computing
-
 ## Cloud CPU
 
 | Name          | Cores | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
@@ -23,7 +22,6 @@ description: News and information about cloud computing services
 | GCP n2d std 2 |   2   | 8GB  |  40GB   |       0       | $0.10/h   | $71.93/mth |
 | Contabo VPS M |   6   | 16GB |  400GB  |   Unlimited   | $0.022/h  | $15.38/mth |
 | Paperspace C4 |   2   | 4GB  |   50GB  |               | $0.04/h   | $25/mth    |
-
 ## Cloud GPU
 
 | Name            | Cores |  GPU             | RAM  | Storage | Data Transfer |  CAD/h    |  CAD/m     |
@@ -32,58 +30,44 @@ description: News and information about cloud computing services
 | AWS p3.2xlarge  |   8   |   1x Tesla V100  |  61  |  EBS    |               |   $3.366  | $2,423.52  |
 | AWS g4dn.xlarge |       |                  |      |         |               |           |            |
 | Paperspace A100 |  12   |   1x A100        |  90  |  EBS    |               |   $3.09   | $2,224.8   |
-
 ## Cloud Native
 
 * [CNCF Landscape](https://github.com/cncf/landscape)
-
 ## Cloud Storage
 
 * [Min.io](https://min.io/)
-
 ## Software Stacks
 
 * [LXD OpenStack Cloud](https://jaas.ai/openstack-lxd)
 * [OpenStax](https://github.com/openstax)
-
 ## GPU Computing
 
 * [Lambda Labs](https://lambdalabs.com/)
 * [Vast.ai](https://vast.ai/)
-
 ## Development Operations
 
 * [opctl](https://opctl.io/docs/)
-
 ## Cloud services
 
 * [VPS Benchmarks](https://www.vpsbenchmarks.com/)
-
 ## Amazon Web Services
-
 ### Courses
 
 * [AWS Solutions Architect Certification Training Course](https://www.simplilearn.com/cloud-computing/aws-solution-architect-associate-training?referrer=search&tag=aws)
-
 ### CodePipeline
 * [Working with Git Submodules in CodePipeline](https://medium.com/@cristiano.ventura/working-with-git-submodules-in-codepipeline-83e843e5d0a)
-
 ## Lambda functions
 - [Architect](https://arc.codes/)
-
 ## EC2
 
 * Change shell for user: `$ sudo usermod -s /bin/bash username`
 * [EC2 script with for loops](https://github.com/hlupaco/aws-ec2-cmd/blob/master/ec2-cmd.sh)
-
 ### Remote access to EC2
 
 * [AWS virtual bastion](https://github.com/akittana/aws-virtual-bastion)
-
 ### NVIDIA on EC2
 
 * [Install NVIDIA driver](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-nvidia-driver.html)
-
 ### OpenGL on EC2
 
 * [GPU Benchmarks](https://wiki.archlinux.org/index.php/Benchmarking#Graphics)
@@ -101,7 +85,6 @@ description: News and information about cloud computing services
 * [GPU desktop](https://github.com/rncry/gpu-desktop)
 * [How to run Unity on Amazon Cloud or without Monitor](https://towardsdatascience.com/how-to-run-unity-on-amazon-cloud-or-without-monitor-3c10ce022639)
 * [Remote accelerated graphics with VirtualGL and TurboVNC](https://summerofhpc.prace-ri.eu/remote-accelerated-graphics-with-virtualgl-and-turbovnc/)
-
 ## Hetzner
 - [Awesome Hcloud](https://github.com/hetznercloud/awesome-hcloud)
 - [Setting up OIDC Authentication & Audit Logging With Kubermatic KubeOne](https://www.kubermatic.com/blog/kubeone-oidc-authentication-audit-logging/)
@@ -116,7 +99,6 @@ description: News and information about cloud computing services
   * select "Advanced .."
   * boot into "Recovery Mode"
   * open "root shell" :P
-
 ### Kubernetes
 - [hetzner-kube](https://github.com/xetys/hetzner-kube)
 - [Hcloud cloud controller manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager)
@@ -134,14 +116,11 @@ description: News and information about cloud computing services
 - [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 - [Vanilla Hetzner Kubeone build does not support load balancers #1110](https://github.com/kubermatic/kubeone/issues/1110)
 - [Getting Started With Kubermatic Kubernetes Platform Part 1](https://www.kubermatic.com/blog/getting-started-with-kubermatic-kubernetes-platform-part-1/)
-
 #### Load Balancers
 - [Weird problem with load balancers that I cannot figure out #222 (use-private-ip: "true")](https://github.com/hetznercloud/hcloud-cloud-controller-manager/issues/222)
 - [hcloud load_balancer.go](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/internal/annotation/load_balancer.go)
-
 ### SSL Certificates
 * [SSL certificates on Hetzner](https://docs.hetzner.com/konsoleh/ssl/certificates)
-
 ## Virtualization
 
 * [IsarVDI](https://isardvdi.com/)
