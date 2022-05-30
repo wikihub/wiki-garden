@@ -1,5 +1,5 @@
 ---
-title: "End User Development"
+title: End User Development
 linkTitle: "End User Development"
 weight: 30
 description: Resources for robotics end user development

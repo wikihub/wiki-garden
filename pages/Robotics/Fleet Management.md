@@ -1,5 +1,5 @@
 ---
-title: "Fleet Management"
+title: Fleet Management
 linkTitle: "Fleet Management"
 weight: 20
 description: Resources on fleet management and web interface for robots
@@ -20,6 +20,5 @@ description: Resources on fleet management and web interface for robots
 * [Rocos](https://www.rocos.io/)
 * [Keeptruckin](https://keeptruckin.com/)
 * [Samsara](https://www.samsara.com/)
-
 ## Kubernetes for Robotics
 * [Cloud Robotics Core: Kubernetes, Federation, App Management](https://googlecloudrobotics.github.io/core/how-to/running-ros-node.html)
