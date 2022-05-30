@@ -1,9 +1,6 @@
 [{:block/name "\"embedded systems\"",
   :block/created-at 1653871644473,
   :block/updated-at 1653871644473}
- {:block/name "\"nav2\"",
-  :block/created-at 1653880825373,
-  :block/updated-at 1653880825373}
  {:block/name "\"nav2\"  ",
   :block/created-at 1653871646676,
   :block/updated-at 1653871646676}
@@ -587,8 +584,8 @@
   :block/created-at 1653873819301,
   :block/updated-at 1653873819301}
  {:block/name "sun, 2022/05/29",
-  :block/created-at 1653871643963,
-  :block/updated-at 1653871643963}
+  :block/created-at 1653881281227,
+  :block/updated-at 1653881281227}
  {:block/name "sysml",
   :block/created-at 1653871646058,
   :block/updated-at 1653871646058}
