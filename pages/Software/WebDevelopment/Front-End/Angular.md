@@ -1,5 +1,5 @@
 ---
-title: "Angular"
+title: Angular
 linkTitle: "Angular"
 date: 2019-04-20
 weight: 70

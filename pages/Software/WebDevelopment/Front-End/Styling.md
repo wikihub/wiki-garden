@@ -1,5 +1,5 @@
 ---
-title: "Styling"
+title: Styling
 linkTitle: "Styling"
 date: 2019-04-20
 weight: 70

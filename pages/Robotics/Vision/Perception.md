@@ -1,5 +1,5 @@
 ---
-title: "Perception"
+title: Perception
 linkTitle: "Perception"
 weight: 20
 description: Resources on machine vision for robots

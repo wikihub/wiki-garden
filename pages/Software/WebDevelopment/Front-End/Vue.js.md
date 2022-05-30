@@ -1,5 +1,6 @@
+title:: Vue.js
 ---
-title: "Vue.js"
+title: Vue.js
 linkTitle: "Vue.js"
 date: 2019-04-20
 weight: 70
@@ -7,7 +8,6 @@ description: News and information about Vue.js tools
 ---
 
 # [Vue.js](https://vuejs.org/)
-
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [VuePress](https://vuepress.vuejs.org/)
 - [VueScript.com](http://www.vuescript.com/) - Aims to offer latest free Vue.js components for web application developers.
@@ -21,11 +21,9 @@ description: News and information about Vue.js tools
 - [Vuetify.js](https://vuetifyjs.com/) - a component framework for Vue.js 2.
 - [Vue Material](https://vuematerial.github.io/) - lightweight framework built exactly according to the Material Design specs. It aims to deliver a collection of reusable components and a series of UI Elements to build applications with support to all modern Web Browsers through Vue 2.
 - [Awesome Vue.js](https://next.awesome-vue.js.org/)
-
 # Nuxt
 * [Awesome Nuxt.js (community)](https://github.com/nuxt-community/awesome-nuxt)
 * [Awesome Nuxt.js](https://github.com/Developerayo/awesome-nuxtjs)
 * [Awesome Nuxt.js.org](https://awesome-nuxt.js.org/)
-
 # Static websites
 * [Gridsome](https://gridsome.org/)
