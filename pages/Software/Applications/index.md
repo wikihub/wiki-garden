@@ -1,6 +1,6 @@
 ---
-title: "Applications"
-linkTitle: "Applications"
+title: "Software Applications"
+linkTitle: "Software Applications"
 date: 2021-10-10
 weight: 30
 description: News and information about web applications and marketplaces

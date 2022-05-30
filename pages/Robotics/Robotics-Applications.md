@@ -1,6 +1,6 @@
 ---
-title: "Applications"
-linkTitle: "Applications"
+title: "Robotics Applications"
+linkTitle: "Robotics Applications"
 weight: 30
 description: Resources for applications of robotics
 ---
