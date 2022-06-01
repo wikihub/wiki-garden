@@ -1,9 +1,3 @@
----
-title: "Embedded Systems"
-linkTitle: "Embedded Systems"
-weight: 20
-description: Resources on embedded systems and single board computers
----
 
 * [Awesome embedded](https://github.com/nhivp/Awesome-Embedded)
 * [Embedded computing news](https://www.embedded-computing.com/)
@@ -16,7 +10,6 @@ description: Resources on embedded systems and single board computers
 # Containers
 
 * [Scalable Open Architecture For Embedded Edge (SOAFEE)](https://armkeil.blob.core.windows.net/developer/Files/pdf/white-paper/arm-scalable-open-architecture-for-embedded-edge-soafee.pdf)
-
 # Single Board Microcontrollers
 * [Mbed platforms](https://os.mbed.com/platforms/)
 * [PlatformIO boards](https://platformio.org/boards)
@@ -26,7 +19,6 @@ description: Resources on embedded systems and single board computers
 * [u-blox](https://os.mbed.com/platforms/ublox-EVK-ODIN-W2/)
 * [BeagleBoard Blue](https://beagleboard.org/blue)
 * [DesignWare ARC EM](https://www.synopsys.com/dw/ipdir.php?ds=arc_em_starter_kit)
-
 # Single Board Computers
 * [Hacker boards](https://www.hackerboards.com/home.php)
 * [Comparison of single board computers](https://en.wikipedia.org/wiki/User:OliverGalvin/Comparison_of_single-board_computers)
@@ -39,14 +31,17 @@ description: Resources on embedded systems and single board computers
 * [OpenGL](https://ubuntu-mate.community/t/tutorial-activate-opengl-driver-for-ubuntu-mate-16-04/7094/4)
 
 ### HAT
+
 * [Pinout](https://pinout.xyz/)
 * [PoE](https://www.adafruit.com/product/3953)
 
 #### TFT Display
+
 * [Touchscreen Supported on Raspberry Pi](https://github.com/notro/fbtft/blob/master/fbtft_device.c)
 * [RFI display](https://learn.watterott.com/rpi-display/fbtft-install/)
 
 ## Digilent
+
 * [Digilent ARM boards](https://store.digilentinc.com/processors/by-technology/arm/)
 
 ## Up Board
@@ -78,6 +73,7 @@ description: Resources on embedded systems and single board computers
 * [LattePanda Alpha 800s](https://www.dfrobot.com/product-1727.html)
 
 # Machine Learning on Microcontrollers
+
 * [STM32Cube.AI](https://www.st.com/content/st_com/en/stm32-ann.html)
 * [Xnor AI](https://www.youtube.com/watch?v=3cD9bpfX9FA&feature=emb_title)
 * [nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers.
@@ -91,9 +87,11 @@ description: Resources on embedded systems and single board computers
 * [kann](https://github.com/attractivechaos/kann) - A lightweight C library for artificial neural networks
 
 # Automotive Computers
+
 * [Industrial Computers for AGV (automated guided vehicles)](https://www.syslogic.de/eng/fahrerlose-transportsysteme-fts-91156.shtml)
 
 # PLC
+
 * [Open source PLC](https://www.digital-loggers.com/plchw.html)
 * [Industrial Shields](https://www.industrialshields.com/)
 * [Yamaha YHX](https://global.yamaha-motor.com/business/robot/lineup/controller/yhx/)
