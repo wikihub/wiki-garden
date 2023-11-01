@@ -1,7 +1,0 @@
-- `do`
-	- run fn in order and return the last result
-- `doseq`
-	- similar to `for`, but run for sideeffects
-- `doall`
-	- forces the seq to be realized
--

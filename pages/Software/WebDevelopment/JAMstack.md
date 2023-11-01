@@ -1,0 +1,33 @@
+---
+
+title: "JAMstack"  
+linkTitle: "JAMstack"  
+date: 2020-07-12  
+weight: 70  
+description: News and information about JAMstack
+type: [[Software]]
+feature: [[Web Development]]
+---
+
+*   [JAMstack](https://jamstack.org/)
+*   [StaticGen](https://www.staticgen.com/)
+*   [JAMstack themes](https://jamstackthemes.dev/)
+*   [MDwiki](http://dynalon.github.io/mdwiki)
+*   [Awesome JAMStack](https://github.com/automata/awesome-jamstack)
+
+- # [Static websites](https://www.staticgen.com/)
+  
+  * [Docusaurus](https://docusaurus.io)
+  * [Docusaurus playground](https://docusaurus.io/docs/playground)
+  * [Hugo](https://gohugo.io/)
+  * [Hugo, getting started](https://gohugo.io/getting-started/quick-start/)
+  * [Jekyll](https://jekyllrb.com/)
+  * [Jekyll themes](https://jekyllrb.com/docs/themes/)
+  * [Gitbook](https://pages.gitlab.io/gitbook/)
+  * [Wiki.js](https://www.requarks.io/)
+## Examples
+
+*   [Vercel Examples](https://github.com/vercel/vercel/tree/master/examples)
+## Themes
+
+* [JAMstack Themes](https://github.com/stackbit/jamstackthemes)

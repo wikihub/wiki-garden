@@ -1,4 +1,0 @@
-- `y.Map`
-- `y.Array`
-- `y.Text`
-	- also supports rich text
