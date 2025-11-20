@@ -6,7 +6,23 @@ description: Resources and tools for Systems Engineering
 type: [[Systems Engineering]]
 ---
 
-# Ecosystem
+## Core Topics
+
+### Modeling & Methodology
+- [[MBSE]] - Model-Based Systems Engineering
+- [[SysML]] - Systems Modeling Language
+- [[Modelica]] - Modeling language for complex systems
+- [[Business Procedure Model and Notation]] - BPMN standards
+
+### Technical Standards
+- [[FMI]] - Functional Mock-up Interface
+- [[Requirements Management]] - Requirements engineering and management
+
+### Applications
+- [[Cyber-Physical Systems]] - CPS design and development
+
+## Ecosystem
+
 * MagicDraw (SysML, No Magic)
 * Rhapsody (SysML, IBM Rational)
 * Simulink (Simulation, The MathWorks)

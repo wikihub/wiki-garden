@@ -6,7 +6,15 @@ description: Resources for running a small business
 type: [[Small Business]]
 ---
 
+## Core Topics
+
+- [[Startups]] - Startup resources and guidance
+- [[eCommerce]] - E-commerce platforms and tools
+- [[B2B]] - Business-to-business resources
+- [[Short Term Rentals]] - Short-term rental management
+
 ## Accounting
+
 
 * [Sage 50](https://www.sage.com/en-ca/products/sage-50cloud/)
 * [QuickBooks Online](https://quickbooks.intuit.com/ca/pricing/)

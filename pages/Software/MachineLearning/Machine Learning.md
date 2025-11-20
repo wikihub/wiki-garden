@@ -8,7 +8,23 @@ type: [[Software]]
 feature: [[Machine Learning]]
 ---
 
-# Reproducibility
+## Related Pages
+
+**Parent:** [[Software]]
+
+## Core Topics
+
+### Machine Learning Domains
+- [[Machine Vision]] - Computer vision and image processing
+- [[NLP]] - Natural Language Processing
+- [[Speech]] - Speech recognition and synthesis
+- [[Document Analysis]] - Document understanding and analysis
+
+### Operations & Deployment
+- [[MLOps]] - Machine Learning Operations
+
+## Reproducibility
+
 
 * [Why Git and Git-LFS is not enough to solve the Machine Learning Reproducibility crisis](https://towardsdatascience.com/why-git-and-git-lfs-is-not-enough-to-solve-the-machine-learning-reproducibility-crisis-f733b49e96e8)
 # Awesome Machine Learning

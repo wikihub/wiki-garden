@@ -7,7 +7,26 @@ description: Resources for learning
 type: [[Learning]]
 ---
 
-# EdTech
+## Core Topics
+
+### Content Creation
+- [[Notebooks]] - Jupyter notebooks and interactive computing
+- [[Slides]] - Presentation and slide creation tools
+- [[Technical Writing]] - Technical documentation and writing
+- [[Multimedia]] - Multimedia content creation
+
+### Learning Platforms & Resources
+- [[Marketplaces]] - Online learning marketplaces
+- [[eBooks]] - eBook resources and platforms
+- [[Podcast]] - Podcasting tools and resources
+
+### Skills Development
+- [[Coding]] - Coding education and practice
+- [[Career]] - Career development resources
+- [[K12]] - K-12 education resources
+
+## EdTech
+
 
 - [Top tools for learning](https://www.toptools4learning.com/)
 - [Digital Promise](https://digitalpromise.org/initiative/instructional-coaching/instructional-coaching-playbook/about-this-playbook/)

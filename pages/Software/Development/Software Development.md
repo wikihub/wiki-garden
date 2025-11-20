@@ -9,7 +9,18 @@ type: [[Software]]
 feature: [[Software Development]]
 ---
 
+## Related Pages
+
+**Parent:** [[Software]]
+
+## Core Topics
+
+- [[Design]] - Software design principles and patterns
+- [[SDLC]] - Software Development Life Cycle
+- [[Testing]] - Software testing methodologies
+
 ## Open Source
+
 
 * [Open source guide](https://opensource.guide/)
 * [Open source agenda](https://www.opensourceagenda.com/)

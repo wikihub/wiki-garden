@@ -8,6 +8,24 @@ type: [[Software]]
 feature: [[Programming]]
 ---
 
+## Related Pages
+
+**Parent:** [[Software]]
+
+## Programming Languages
+
+- [[Python]] - Python programming language
+- [[C++]] - C++ programming language
+- [[Java]] - Java programming language
+- [[Go]] - Go programming language
+- [[Rust]] - Rust programming language
+- [[Julia]] - Julia programming language
+- [[R]] - R programming language
+- [[Node.js]] - Node.js runtime environment
+- [[OCaml]] - OCaml programming language
+
+## Learning Resources
+
 *   [Leetcode](https://leetcode.com)
 *   [Tech.io](https://github.com/TechDotIO)
 *   [60 amazing resources to learn coding](https://www.houseofbots.com/news-detail/4166-4-60-amazing-resources-&-tools-to-learn-programming-language-coding)

@@ -7,6 +7,17 @@ type: [[Robotics]]
 feature: [[ROS2]]
 ---
 
+## Related Pages
+
+**Parent:** [[Robotics]]
+
+**Related Topics:**
+- [[Learning ROS2]]
+- [[Nav2]]
+- [[ROS2 Demos]]
+
+## Documentation
+
 * [ROS 2 Documentation: Foxy](https://docs.ros.org/en/foxy/)
 * [ROS2 meta repository](https://github.com/ros2/ros2)
 * [ROS2 documentation](https://index.ros.org/doc/ros2/)

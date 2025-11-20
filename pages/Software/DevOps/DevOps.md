@@ -9,6 +9,18 @@ type: [[Software]]
 feature: [[DevOps]]
 ---
 
+## Related Pages
+
+**Parent:** [[Software]]
+
+## Core Topics
+
+- [[Ansible]] - Configuration management and automation
+- [[Hashicorp]] - HashiCorp tools (Terraform, Vault, etc.)
+- [[Jenkins]] - CI/CD automation server
+
+## Resources
+
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 * [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * [Awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)

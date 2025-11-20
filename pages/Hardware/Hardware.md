@@ -2,46 +2,71 @@
 title: Hardware
 linkTitle: "Hardware"
 weight: 20
-description: Hardware resources
+description: Hardware components, systems, and resources
 type: [[Hardware]]
 ---
 
+## Overview
+
+This section covers hardware components, embedded systems, sensors, actuators, and development resources for electronics and robotics projects.
+
+## Core Topics
+
+### Components & Systems
+- [[Actuators]] - Motors and actuators
+- [[Batteries]] - Battery technologies and power systems
+- [[Cameras]] - Camera modules and vision hardware
+- [[Sensors]] - Sensor technologies and modules
+
+### Embedded Systems
+- [[Embedded Systems]] - Embedded system development
+- [[Embedded GUI]] - Graphical user interfaces for embedded systems
+- [[STM32]] - STM32 microcontroller platform
+
+### Communication & Networking
+- [[CAN]] - Controller Area Network
+- [[Network]] - Networking technologies
+- [[Internet of Things]] - IoT platforms and devices
+
+### Development & Prototyping
+- [[Rapid Prototyping]] - Rapid prototyping tools and techniques
+- [[Makers]] - Maker resources and communities
+
 ## Shopping
 
-* [Arrow](https://www.arrow.com/)
-* [Sparkfun](https://www.sparkfun.com/)
-* [Adafruit](https://www.adafruit.com/)
-* [Seeed Studio](https://www.seeedstudio.com/)
-* [Diigiit](http://www.ca.diigiit.com/)
-* [JAMECO](https://www.jameco.com)
-* [Pico Canada](https://picocanada.com/en/)
-* [tindie](https://www.tindie.com/)
-* [Rev Robotics](http://www.revrobotics.com/)
-* [Drop](https://drop.com/)
+### International Suppliers
+- [Arrow](https://www.arrow.com/)
+- [Sparkfun](https://www.sparkfun.com/)
+- [Adafruit](https://www.adafruit.com/)
+- [Seeed Studio](https://www.seeedstudio.com/)
+- [Diigiit](http://www.ca.diigiit.com/)
+- [JAMECO](https://www.jameco.com)
+- [Pico Canada](https://picocanada.com/en/)
+- [tindie](https://www.tindie.com/)
+- [Rev Robotics](http://www.revrobotics.com/)
+- [Drop](https://drop.com/)
 
 ### Canada
-
-* [Mouser](https://www.mouser.ca)
-* [Newark (Element14)](https://canada.newark.com/?COM=element14_store_Home)
-* [Digikey](https://www.digikey.ca)
-* [Robotshop](https://www.robotshop.com/ca/en/)
-* [Solarbotics](https://solarbotics.com/)
+- [Mouser](https://www.mouser.ca)
+- [Newark (Element14)](https://canada.newark.com/?COM=element14_store_Home)
+- [Digikey](https://www.digikey.ca)
+- [Robotshop](https://www.robotshop.com/ca/en/)
+- [Solarbotics](https://solarbotics.com/)
 
 ### Ontario
-
-* [Electromaker](https://www.electromaker.io)
-* [Elmwood Electronics](https://elmwoodelectronics.ca/)
-* [Sayal](https://shop.sayal.com/)
-* [Corpshadow](https://corpshadow.biz/)
+- [Electromaker](https://www.electromaker.io)
+- [Elmwood Electronics](https://elmwoodelectronics.ca/)
+- [Sayal](https://shop.sayal.com/)
+- [Corpshadow](https://corpshadow.biz/)
 
 ## Manufacturing
 
-* [101RP in Shenzhen](http://www.101rp.com/)
+- [101RP in Shenzhen](http://www.101rp.com/)
 
 ## PCB
 
-* [Seeed Fusion PCB & PCB Assembly](https://www.seeedstudio.com/fusion.html)
+- [Seeed Fusion PCB & PCB Assembly](https://www.seeedstudio.com/fusion.html)
 
 ## DIN Rails
 
-* [DIN Plate](https://pi-plates.com/dinplate/)
+- [DIN Plate](https://pi-plates.com/dinplate/)

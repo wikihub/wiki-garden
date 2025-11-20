@@ -2,12 +2,55 @@
 title: Autonomous Vehicles
 linkTitle: "Autonomous Vehicles"
 weight: 5
-description: Autonomous Vehicles
+description: Autonomous vehicle technologies, platforms, and applications
 type: [[Automotive Systems]]
 features: [[Autonomous Vehicles]]
 ---
 
-# Standards
+## Related Pages
+
+**Parent:** [[Automotive Systems]]
+
+## Core Topics
+
+### Software Platforms & Frameworks
+- [[Autoware]] - Open-source autonomous driving software
+- [[Apollo]] - Baidu's autonomous driving platform
+- [[AutoCore]] - Autonomous driving middleware
+
+### Industry Leaders & Companies
+- [[Waymo]] - Google's autonomous vehicle company
+- [[Uber]] - Uber's autonomous vehicle program
+- [[Toyota]] - Toyota's autonomous vehicle initiatives
+- [[Microsoft]] - Microsoft's autonomous vehicle technologies
+- [[LG]] - LG's autonomous vehicle solutions
+- [[NVIDIA DRIVE]] - NVIDIA's autonomous vehicle platform
+- [[Apex.ai]] - Real-time autonomous driving software
+
+### Development Tools & Platforms
+- [[Dataspeed]] - Autonomous vehicle development kits
+- [[Mathworks]] - MATLAB/Simulink for autonomous vehicles
+- [[dSpace]] - Automotive development and testing
+- [[OPAL-RT]] - Real-time simulation systems
+
+### Applications & Domains
+- [[Autonomous Shuttles|AutonomousShuttles]] - Autonomous shuttle services
+- [[Autonomous Racing]] - Autonomous racing competitions
+- [[Agriculture]] - Autonomous vehicles in agriculture
+- [[Connected Vehicles]] - V2X and connected vehicle technologies
+
+### Technical Topics
+- [[Autonomous Hardware]] - Hardware for autonomous vehicles
+- [[Vehicle Interface]] - Vehicle control interfaces
+- [[ML for Driving]] - Machine learning for autonomous driving
+- [[Fleet Management System]] - Managing autonomous vehicle fleets
+
+### Learning & Resources
+- [[Learning CAV]] - Connected and autonomous vehicle learning resources
+- [[Canadian CAV]] - Canadian autonomous vehicle initiatives
+
+## Standards
+
 
 * [Shared Streets](https://sharedstreets.io/)
 * [MPAI-CAV](https://mpai.community/standards/mpai-cav/use-cases-and-functional-requirements/)

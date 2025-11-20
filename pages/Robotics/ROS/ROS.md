@@ -7,6 +7,17 @@ type: [[Robotics]]
 feature: [[ROS]]
 ---
 
+## Related Pages
+
+**Parent:** [[Robotics]]
+
+**Related Topics:**
+- [[Cloud Robotics|CloudRobotics]]
+- [[Embedded ROS]]
+- [[Learning ROS]]
+
+## Resources
+
 - [Open Robotics](https://www.openrobotics.org/)
 - [ROS Industrial](https://rosindustrial.org/)
 - [ROS Book](https://ros-books.blogspot.com/)

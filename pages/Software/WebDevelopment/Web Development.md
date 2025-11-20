@@ -8,7 +8,31 @@ type: [[Software]]
 feature: [[Web Development]]
 ---
 
-# Learning resources
+## Related Pages
+
+**Parent:** [[Software]]
+
+## Core Topics
+
+### Frontend Development
+- [[Front-End]] - Frontend frameworks and tools
+- [[Apps]] - Web application development
+- [[Android]] - Android web development
+
+### Backend & APIs
+- [[Back-End]] - Backend development
+- [[API]] - API design and development
+- [[GraphQL]] - GraphQL APIs
+- [[Auth]] - Authentication and authorization
+
+### Technologies & Platforms
+- [[JAMstack]] - JAMstack architecture
+- [[Web Platforms]] - Web platform technologies
+- [[Commerce]] - E-commerce solutions
+- [[SSL]] - SSL/TLS certificates
+
+## Learning resources
+
 * [web.dev](https://web.dev/)
 * [Egghead](https://egghead.io/)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
