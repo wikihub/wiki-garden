@@ -6,6 +6,17 @@ weight: 80
 description: News and information about word processing tools
 ---
 
+## Related Pages
+
+**Parent:** [[Software]]
+
+**Related Topics:**
+- [[Emacs]]
+- [[HTML5]]
+- [[LaTeX]]
+- [[Languages]]
+- [[Markdown]]
+
 ## Writing Guides
 
 * [Writing a Control Paper](http://www.ece.ucsb.edu/~hespanha/published/writingpapers.pdf)

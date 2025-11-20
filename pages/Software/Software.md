@@ -50,6 +50,12 @@ type: [[Software]]
     - VueJS
     - AngularJS
   - Backend
+- [[Word Processing]]
+  - [[Emacs]]
+  - [[HTML5]]
+  - [[LaTeX]]
+  - [[Languages]]
+  - [[Markdown]]
 - DevOps
   - Containers
     - Docker
