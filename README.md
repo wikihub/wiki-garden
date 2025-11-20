@@ -17,8 +17,8 @@ This repository contains the source for my personal knowledge garden.
 
 This project uses GitHub Actions for continuous integration and deployment.
 
-- **CI (`.github/workflows/main.yml`)**: This workflow is triggered on pushes to the `main` branch. It uses the `logseq-publish` action to build the static site and then deploys it to GitHub Pages (the `gh-pages` branch).
-- **Test (`.github/workflows/test.yml`)**: This workflow allows for manual triggering (`workflow_dispatch`). It builds the site and copies a custom CSS file, useful for testing build integrity and style changes.
+- **CI (`.github/workflows/main.yml`)**: This workflow is triggered on pushes to the `main` branch. It uses the official `logseq/publish-spa` action (v0.3.0) with Logseq version 0.10.14 to build the static site and then deploys it to GitHub Pages (the `gh-pages` branch).
+- **Test (`.github/workflows/test.yml`)**: This workflow allows for manual triggering (`workflow_dispatch`). It builds the site with the same action and version, then copies a custom CSS file, useful for testing build integrity and style changes.
 
 ## Usage
 
