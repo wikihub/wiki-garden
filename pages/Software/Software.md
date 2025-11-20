@@ -11,45 +11,45 @@ type: [[Software]]
 
 This section covers software development, tools, platforms, and technologies across various domains including web development, machine learning, DevOps, and more.
 
-## Core Topics
+## Sub-Categories
 
 ### Development & Engineering
-- [[Programming]] - Programming languages and paradigms
-- [[Development]] - Development tools and practices
-- [[Software Engineering]] - Software engineering principles
-- [[Development Environments|DevelopmentEnvironments]] - IDEs and development setups
-- [[Word Processing]] - Documentation and writing tools
+- [[Programming]]
+- [[Development]]
+- [[Software Engineering]]
+- [[Development Environments]]
+- [[Word Processing]]
 
 ### Cloud & Infrastructure
-- [[Cloud]] - Cloud platforms and services
-- [[DevOps]] - DevOps practices and tools
+- [[Cloud]]
+- [[DevOps]]
 
 ### Data & AI
-- [[Data]] - Data management and processing
-- [[MachineLearning]] - Machine learning and AI
-- [[Natural Language Processing]] - NLP tools and techniques
+- [[Data]]
+- [[MachineLearning]]
+- [[Natural Language Processing]]
 
 ### Web & Applications
-- [[WebDevelopment]] - Web development frameworks and tools
-- [[Applications]] - Software applications
-- [[Games]] - Game development
+- [[WebDevelopment]]
+- [[Applications]]
+- [[Games]]
 
 ### Specialized Topics
-- [[Blockchain]] - Blockchain and distributed systems
-- [[Graphic Design]] - Design tools and resources
-- [[Simulation]] - Simulation platforms and tools
-- [[NVIDIA]] - NVIDIA technologies and tools
-- [[Open metaverse]] - Metaverse development
-- [[OpenSource]] - Open source projects and resources
+- [[Blockchain]]
+- [[Graphic Design]]
+- [[Simulation]]
+- [[NVIDIA]]
+- [[Open metaverse]]
+- [[OpenSource]]
 
-### Additional Resources
-- [[Enterprise]] - Enterprise software solutions
-- [[Freelancing]] - Freelancing resources and platforms
-- [[JavaScript]] - JavaScript ecosystem
-- [[Linux]] - Linux systems and tools
-- [[Packages]] - Package management
-- [[Robotic Process Automation]] - RPA tools and frameworks
-- [[ssh]] - SSH configuration and usage
+## Related Topics
+- [[Enterprise]]
+- [[Freelancing]]
+- [[JavaScript]]
+- [[Linux]]
+- [[Packages]]
+- [[Robotic Process Automation]]
+- [[ssh]]
 
 ## Technology Stacks
 

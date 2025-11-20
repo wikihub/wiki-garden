@@ -7,6 +7,8 @@ description: News and information about cameras
 type: [[Hardware]]
 ---
 
+**Parent:** [[Hardware]]
+
 # Cameras
 
 *   [3D cameras with ROS support](https://rosindustrial.org/3d-camera-survey)

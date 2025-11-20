@@ -6,6 +6,8 @@ description: Actuators resources
 type: [[Hardware]]
 ---
 
+**Parent:** [[Hardware]]
+
 # Linear Actuators
 
 * [SKF Motion Technologies](https://www.skfmotiontechnologies.com/en/ca/products/high-performance-actuators?from=skf.com)

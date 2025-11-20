@@ -8,6 +8,8 @@ type: [[Software]]
 feature: [[Software Development]]
 ---
 
+**Parent:** [[Development]]
+
 # Hardware Unit Testing
 * [Test driven development for embedded C](https://pragprog.com/titles/jgade/test-driven-development-for-embedded-c)
 # Code coverage

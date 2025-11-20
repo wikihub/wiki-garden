@@ -7,6 +7,8 @@ description: News and information about Software Engineering
 type: [[Software]]
 ---
 
+**Parent:** [[Software]]
+
 ## Courses
 
 * [Software System Development by Bob Lingard](https://www.ecs.csun.edu/~rlingard/comp480/)

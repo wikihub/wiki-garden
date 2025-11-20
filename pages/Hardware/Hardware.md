@@ -4,11 +4,18 @@ linkTitle: "Hardware"
 weight: 20
 description: Hardware components, systems, and resources
 type: [[Hardware]]
+tags: [Software, Robotics, Automotive Systems]
 ---
 
 ## Overview
 
 This section covers hardware components, embedded systems, sensors, actuators, and development resources for electronics and robotics projects.
+
+## Related Domains
+
+- **[[Software]]** - Firmware, C/C++, and IoT Platforms
+- **[[Robotics]]** - Motors, Sensors, and Controllers
+- **[[Automotive Systems]]** - Vehicle Hardware and ECUs
 
 ## Core Topics
 

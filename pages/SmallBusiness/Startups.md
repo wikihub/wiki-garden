@@ -6,6 +6,8 @@ description: Resources for startups
 type: [[Small Business]]
 ---
 
+**Parent:** [[Small Business]]
+
 # Startups
 ## Canadian
 

@@ -6,4 +6,6 @@ description: Resources and tools for BPMN
 type: [[Systems Engineering]]
 ---
 
+**Parent:** [[Systems Engineering]]
+
 * [BPMN.io](https://bpmn.io/)

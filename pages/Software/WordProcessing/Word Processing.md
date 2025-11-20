@@ -10,7 +10,7 @@ description: News and information about word processing tools
 
 **Parent:** [[Software]]
 
-**Related Topics:**
+## Sub-Categories
 - [[Emacs]]
 - [[HTML5]]
 - [[LaTeX]]

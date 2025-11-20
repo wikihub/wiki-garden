@@ -6,6 +6,8 @@ description: Resources for NVIDIA robotics and the Isaac framework
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 # Training
 
 * [NVIDIA Training Kit](https://developer.nvidia.com/teaching-kits)

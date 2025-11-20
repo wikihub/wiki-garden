@@ -7,6 +7,8 @@ type: [[Software]]
 feature: [[Software Development]]
 ---
 
+**Parent:** [[Development]]
+
 # Software Development Life Cycle
 
 * [Systems Development Life Cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle)

@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[DevOps]]
 ---
 
+**Parent:** [[DevOps]]
+
 # Jenkins
 # [Jenkins](https://www.jenkins.io/)
 * [Jenkins on AWS](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)

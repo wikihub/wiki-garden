@@ -6,6 +6,8 @@ description: Resources for multimedia
 type: [[Learning]]
 ---
 
+**Parent:** [[Learning]]
+
 # Screen recorders
 * [Best Linux screen recorders](https://itsfoss.com/best-linux-screen-recorders/)
 * [Olive](https://www.olivevideoeditor.org/)

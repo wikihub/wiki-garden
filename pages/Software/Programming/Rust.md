@@ -7,4 +7,6 @@ type: [[Software]]
 feature: [[Programming]]
 ---
 
+**Parent:** [[Programming]]
+
 * [Rust programming language](https://www.rust-lang.org/)

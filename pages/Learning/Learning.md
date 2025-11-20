@@ -15,7 +15,7 @@ type: [[Learning]]
 - [[Technical Writing]] - Technical documentation and writing
 - [[Multimedia]] - Multimedia content creation
 
-### Learning Platforms & Resources
+### Platforms & Resources
 - [[Marketplaces]] - Online learning marketplaces
 - [[eBooks]] - eBook resources and platforms
 - [[Podcast]] - Podcasting tools and resources

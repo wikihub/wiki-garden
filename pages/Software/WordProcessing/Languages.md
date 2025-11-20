@@ -7,6 +7,8 @@ description: News and information about languages
 
 ---
 
+**Parent:** [[Word Processing]]
+
 # Localization
 
 * [Crowdin](https://crowdin.com/)

@@ -6,6 +6,7 @@ weight: 50
 description: News and information about Natural Language Processing
 type: [[Software]]
 feature: [[Machine Learning]]
+**Parent:** [[Software]]
 ---
 
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)

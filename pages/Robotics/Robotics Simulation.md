@@ -6,6 +6,8 @@ description: News and information about simulation environments
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 - # 3D Simulation
   
   * [Gazebo](http://gazebosim.org/)

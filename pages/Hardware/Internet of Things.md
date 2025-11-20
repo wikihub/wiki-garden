@@ -6,6 +6,8 @@ description: News and information about Internet of Things and its applications
 type: [[Hardware]]
 ---
 
+**Parent:** [[Hardware]]
+
 - [Awesome IoT](https://phodal.github.io/awesome-iot/)
 # IoT Platforms
 

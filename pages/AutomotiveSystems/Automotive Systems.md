@@ -4,16 +4,25 @@ linkTitle: "Automotive Systems"
 weight: 5
 description: Automotive systems, technologies, and innovations
 type: [[Automotive Systems]]
+tags: [Robotics, Hardware, Systems Engineering]
 ---
+
+**Parent:** [[Automotive Systems]]
 
 ## Overview
 
 This section covers automotive systems, technologies, and innovations including autonomous vehicles, electric vehicles, vehicle dynamics, and automotive control systems.
 
+## Related Domains
+
+- **[[Robotics]]** - Autonomous navigation and perception
+- **[[Hardware]]** - ECUs, CAN bus, and Sensors
+- **[[Systems Engineering]]** - Requirements and V-Model
+
 ## Core Topics
 
 ### Autonomous Systems
-- [[Autonomous Vehicles|AutonomousVehicles]] - Self-driving vehicles and technologies
+- [[Autonomous Vehicles|AutonomousVehicles]] - Self-driving vehicles
 
 ### Propulsion & Dynamics
 - [[Electric Vehicles]] - Electric vehicle technologies

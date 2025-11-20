@@ -6,6 +6,8 @@ description: Resources for eCommerce
 type: [[Small Business]]
 ---
 
+**Parent:** [[Small Business]]
+
 * [Megento](https://magento.com/)
 
 # Shopify

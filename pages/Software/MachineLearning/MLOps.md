@@ -8,6 +8,8 @@ type: [[Software]]
 feature: [[Machine Learning]]
 ---
 
+**Parent:** [[MachineLearning]]
+
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Data labeling](https://madewithml.com/courses/mlops/labeling/)
 * [Label Studio](https://labelstud.io/)

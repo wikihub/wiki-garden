@@ -6,6 +6,8 @@ description: Resources for Intel robotics and the RealSense cameras
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 # [Intel RealSense](https://www.intel.ca/content/www/ca/en/architecture-and-technology/realsense-overview.html)
 
 * [Intel RealSense SDK](https://github.com/IntelRealSense/librealsense)

@@ -7,6 +7,8 @@ type: [[Software]]
 feature: [[Programming]]
 ---
 
+**Parent:** [[Programming]]
+
 
 *   [Julia](https://julialang.org/learning/)
 *   [Quantecon Notebooks Julia](https://github.com/QuantEcon/quantecon-notebooks-julia)

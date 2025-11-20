@@ -13,11 +13,11 @@ feature: [[Software Development]]
 
 **Parent:** [[Software]]
 
-## Core Topics
+## Sub-Categories
 
-- [[Design]] - Software design principles and patterns
-- [[SDLC]] - Software Development Life Cycle
-- [[Testing]] - Software testing methodologies
+- [[Design]]
+- [[SDLC]]
+- [[Testing]]
 
 ## Open Source
 

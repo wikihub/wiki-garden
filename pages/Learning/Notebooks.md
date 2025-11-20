@@ -6,6 +6,8 @@ description: Resources for learning using notebooks
 type: [[Learning]]
 ---
 
+**Parent:** [[Learning]]
+
 * [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
 
 # Research

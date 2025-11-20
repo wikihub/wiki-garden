@@ -7,6 +7,8 @@ description: News and information about software packages
 type: [[Software]]
 ---
 
+**Parent:** [[DevOps]]
+
 # Nix
 
 * [Search NixOS packages](https://nixos.org/nixos/packages.html)

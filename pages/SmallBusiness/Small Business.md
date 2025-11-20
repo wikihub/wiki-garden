@@ -6,6 +6,8 @@ description: Resources for running a small business
 type: [[Small Business]]
 ---
 
+**Parent:** [[Small Business]]
+
 ## Core Topics
 
 - [[Startups]] - Startup resources and guidance

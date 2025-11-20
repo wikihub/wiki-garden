@@ -12,30 +12,27 @@ feature: [[Cloud]]
 
 **Parent:** [[Software]]
 
-## Core Topics
+## Sub-Categories
 
 ### Cloud Platforms & Services
-- [[AWS]] - Amazon Web Services
-- [[Google Cloud Platform]] - GCP services and tools
-- [[Cloud Computing]] - General cloud computing resources
-- [[Cloud Storage]] - Cloud storage solutions
+- [[AWS]]
+- [[Google Cloud Platform]]
+- [[Cloud Storage]]
 
 ### Infrastructure & Deployment
-- [[Containers]] - Container technologies
-- [[Kubernetes]] - Container orchestration
-- [[Serverless]] - Serverless computing
-- [[Self-Hosted]] - Self-hosted solutions
+- [[Containers]]
+- [[Kubernetes]]
+- [[Serverless]]
+- [[Self-Hosted]]
 
 ### Networking & Security
-- [[DNS]] - Domain Name System
-- [[Networking]] - Cloud networking
-- [[Security]] - Cloud security
-- [[Mail]] - Email services
+- [[DNS]]
+- [[Networking]]
+- [[Security]]
+- [[Mail]]
 
 ### Advanced Topics
-- [[Edge Computing]] - Edge computing technologies
-
-## Cloud Computing
+- [[Edge Computing]]
 
 
 ## Cloud CPU

@@ -4,11 +4,18 @@ linkTitle: "Robotics"
 weight: 30
 description: Resources for robotics development, platforms, and applications
 type: [[Robotics]]
+tags: [Software, Hardware, Automotive Systems]
 ---
 
 ## Overview
 
 This section covers robotics technologies, platforms, software frameworks, hardware components, and applications across various domains including mobile robots, manipulators, autonomous systems, and more.
+
+## Related Domains
+
+- **[[Software]]** - Programming, AI/ML, and Computer Vision
+- **[[Hardware]]** - Sensors, Actuators, and Embedded Systems
+- **[[Automotive Systems]]** - Autonomous Vehicles and Vehicle Dynamics
 
 ## Core Topics
 
@@ -18,16 +25,16 @@ This section covers robotics technologies, platforms, software frameworks, hardw
 - [[Vision]] - Computer vision and perception
 
 ### Hardware & Components
-- [[BLDC Motors]] - Brushless DC motors for robotics
+- [[BLDC Motors]] - Brushless DC motors
 - [[Robot Components]] - Essential robot components
-- [[Lidars]] - Lidar sensors and applications
-- [[GPS]] - GPS systems for robotics
+- [[Lidars]] - Lidar sensors
+- [[GPS]] - GPS systems
 - [[Indoor Positioning]] - Indoor localization systems
 
 ### Platforms & Systems
 - [[Platforms]] - Robotics platforms and development kits
 - [[Quadrotors]] - Quadrotor drones and UAVs
-- [[RC Cars]] - RC car platforms for robotics
+- [[RC Cars]] - RC car platforms
 - [[Manipulators]] - Robotic arms and manipulators
 
 ### Applications & Domains

@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[DevOps]]
 ---
 
+**Parent:** [[DevOps]]
+
 * [HashiQube](https://hashiqube.com)
 * [Hashicorp Katakoda](https://github.com/hashicorp/katakoda/tree/master/securing-nomad/nomad-enable-acls)
 

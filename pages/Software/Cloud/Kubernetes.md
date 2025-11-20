@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 * [Awesome cloud native](https://jimmysong.io/awesome-cloud-native/)
 
 ## Kubernetes

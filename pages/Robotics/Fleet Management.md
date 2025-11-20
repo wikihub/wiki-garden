@@ -6,6 +6,8 @@ description: Resources on fleet management and web interface for robots
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 # Fleet Managetment
 
 * [Transitive Robotics](https://transitiverobotics.com/)

@@ -6,4 +6,6 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 * [Hacking Lab Live CD](https://livecd.hacking-lab.com/)

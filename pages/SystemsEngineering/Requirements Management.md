@@ -6,6 +6,8 @@ description: Resources and tools for requirements management
 type: [[Systems Engineering]]
 ---
 
+**Parent:** [[Systems Engineering]]
+
 * [Top Requirements Management Tools List](https://blog.testlodge.com/requirements-management-tools-list/)
 
 # Tools

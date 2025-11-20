@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[DevOps]]
 ---
 
+**Parent:** [[DevOps]]
+
 * [Galaxy: A Collection for managing Hetzner Cloud resources](https://galaxy.ansible.com/hetzner/hcloud)
   * [Ansible Galaxy: Installing content](https://galaxy.ansible.com/docs/using/installing.html)
 * [Ansible for DevOps](https://www.ansiblefordevops.com/)

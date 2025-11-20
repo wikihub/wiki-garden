@@ -6,6 +6,8 @@ description: Resources for technical writing
 type: [[Learning]]
 ---
 
+**Parent:** [[Learning]]
+
 ## Resources
 
 * [Write the Docs](https://www.writethedocs.org/guide/)

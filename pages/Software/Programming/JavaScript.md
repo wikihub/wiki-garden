@@ -6,6 +6,8 @@ description: Resources for JavaScript
 type: [[Software]]
 ---
 
+**Parent:** [[Programming]]
+
 # Node.js
 
 *   [Node School](https://nodeschool.io/)

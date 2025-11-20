@@ -7,6 +7,8 @@ description: News and information about cloud services for enterprises
 type: [[Software]]
 ---
 
+**Parent:** [[Cloud]]
+
 # Storage
 
 * [EOS](https://eos-web.web.cern.ch/eos-web/)

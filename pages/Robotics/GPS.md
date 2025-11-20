@@ -7,6 +7,8 @@ description: Resources for GPS
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 # GPS
 * [Differential GPS](https://en.wikipedia.org/wiki/Differential_GPS)
 * [Real Time Kinematic (RTK) Positioning](https://en.wikipedia.org/wiki/Real-time_kinematic)

@@ -6,6 +6,8 @@ description: Resources and tools for Modelica
 type: [[Systems Engineering]]
 ---
 
+**Parent:** [[Systems Engineering]]
+
 # OpenModelica
 * [OpenModelica](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/index.html)
 # JModelica

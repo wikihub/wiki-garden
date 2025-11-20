@@ -6,6 +6,8 @@ description: Resources about robotic behaviors
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 * [BEHAVIOR@Stanford](https://behavior.stanford.edu/)
 
 # Behavioral Logic

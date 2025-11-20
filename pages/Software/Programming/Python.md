@@ -3,6 +3,8 @@ type: [[Software]]
 feature: [[Programming]]
 ---
 
+**Parent:** [[Programming]]
+
 # Python
 
 ## Syllabus

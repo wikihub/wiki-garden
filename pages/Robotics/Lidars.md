@@ -5,6 +5,8 @@ description: Resources for lidars
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 * [How to Choose the Right LiDAR Sensor for Your Project](https://www.linkedin.com/pulse/how-choose-right-lidar-sensor-your-project-shahab-khokhar/)
 
 # 2D Lidars

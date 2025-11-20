@@ -8,6 +8,8 @@ type: [[Software]]
 feature: [[Machine Learning]]
 ---
 
+**Parent:** [[Software]]
+
 * [opendatacam](https://opendatacam.github.io/opendatacam/)
 * [StarNet: Targeted Computation for Object Detection in Point Clouds](https://arxiv.org/abs/1908.11069)
 * [SAHI](https://github.com/obss/sahi)

@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 * [naked domain redirect](http://wwwizer.com/naked-domain-redirect)
 * To see the DNS servers, run: `resolvectl`
 * Disable DNS service

@@ -13,11 +13,14 @@ feature: [[DevOps]]
 
 **Parent:** [[Software]]
 
-## Core Topics
+## Sub-Categories
 
-- [[Ansible]] - Configuration management and automation
-- [[Hashicorp]] - HashiCorp tools (Terraform, Vault, etc.)
-- [[Jenkins]] - CI/CD automation server
+- [[Ansible]]
+- [[Hashicorp]]
+- [[Jenkins]]
+- [[Linux]]
+- [[Packages]]
+- [[ssh]]
 
 ## Resources
 

@@ -7,6 +7,8 @@ type: [[Robotics]]
 feature: [[Hardware]]
 ---
 
+**Parent:** [[Robotics]]
+
 # Motor Controllers
 
 * [Accelerated Systems](https://www.accelerated-systems.com/)

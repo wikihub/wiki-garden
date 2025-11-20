@@ -6,6 +6,8 @@ description: Battery resources
 type: [[Hardware]]
 ---
 
+**Parent:** [[Hardware]]
+
 # Battery Management Systems
 * [CSS Electronics](https://www.csselectronics.com/screen/page/cloud-battery-management-can-bus-bms/language/en)
 # 18650 Batteries

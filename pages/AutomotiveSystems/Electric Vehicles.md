@@ -7,6 +7,8 @@ type: [[Automotive Systems]]
 features: [[Electric Vehicles]]
 ---
 
+**Parent:** [[Automotive Systems]]
+
 # Platforms
 ## AUTO
 

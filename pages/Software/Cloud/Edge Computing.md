@@ -8,6 +8,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 # STM32
 * [Using Visual Studio Code with STM32CubeMX for ARM Development](https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx)
 # Blogs

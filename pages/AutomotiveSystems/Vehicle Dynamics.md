@@ -7,6 +7,8 @@ type: [[Automotive Systems]]
 features: [[Vehicle Dynamics]]
 ---
 
+**Parent:** [[Automotive Systems]]
+
 # Python
 
 * [Neural Network for Vehicle Dynamics Modeling](https://github.com/TUMFTM/NeuralNetwork_for_VehicleDynamicsModeling)

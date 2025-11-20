@@ -7,6 +7,8 @@ description: News and information about natural language processing and its appl
 type: [[Software]]
 ---
 
+**Parent:** [[Software]]
+
 # Natural Language Processing
 - [Deep Learning for NLP: An Overview of Recent Trends](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
 - [Sequence-to-Sequence with Attention Model for Text Summarization](https://github.com/tensorflow/models/tree/master/research/textsum)

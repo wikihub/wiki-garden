@@ -6,6 +6,8 @@ description: Resources for teaching students to code
 type: [[Learning]]
 ---
 
+**Parent:** [[Learning]]
+
 ## Teaching
 
 * [Autolab](https://docs.autolabproject.com/)

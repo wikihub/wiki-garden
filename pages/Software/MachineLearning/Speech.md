@@ -6,6 +6,7 @@ weight: 50
 description: News and information about Speech synthesis and voice analysis
 type: [[Software]]
 feature: [[Machine Learning]]
+**Parent:** [[Software]]
 ---
 
 # Datasets

@@ -5,6 +5,8 @@ date: 2019-03-07
 description: News and information about Emacs
 ---
 
+**Parent:** [[Word Processing]]
+
 * [Emacs wiki](http://www.emacswiki.org/)
 * [Learn Emacs lisp in 15
     minutes](http://bzg.fr/learn-emacs-lisp-in-15-minutes.html)

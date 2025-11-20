@@ -6,6 +6,8 @@ description: Resources for short term rentals
 type: [[Small Business]]
 ---
 
+**Parent:** [[Small Business]]
+
 * [AirDNA](https://www.airdna.co)
 
 # Digital Nomads

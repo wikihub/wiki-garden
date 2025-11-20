@@ -6,6 +6,8 @@ description: Resources and tools for Systems Engineering
 type: [[Systems Engineering]]
 ---
 
+**Parent:** [[Systems Engineering]]
+
 ## Core Topics
 
 ### Modeling & Methodology
@@ -14,7 +16,7 @@ type: [[Systems Engineering]]
 - [[Modelica]] - Modeling language for complex systems
 - [[Business Procedure Model and Notation]] - BPMN standards
 
-### Technical Standards
+### Standards & Requirements
 - [[FMI]] - Functional Mock-up Interface
 - [[Requirements Management]] - Requirements engineering and management
 

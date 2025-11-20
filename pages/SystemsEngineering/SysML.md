@@ -6,6 +6,8 @@ description: Resources and tools for SysML
 type: [[Systems Engineering]]
 ---
 
+**Parent:** [[Systems Engineering]]
+
 # References
 * [OMG SysML](http://www.omgsysml.org/)
 * [SysML](https://sysml.org/)

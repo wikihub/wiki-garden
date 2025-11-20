@@ -5,6 +5,8 @@ date: 2019-03-07
 description: News and information about LaTeX
 ---
 
+**Parent:** [[Word Processing]]
+
 # TeX Distributions
 	- [MikTeX](http://miktex.org/)
 	- [ConTeXt](http://wiki.contextgarden.net/Main_Page)

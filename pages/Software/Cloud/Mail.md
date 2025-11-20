@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 * [Postal](https://docs.postalserver.io/)
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/)
 * [Mailcow](https://github.com/mailcow/mailcow-dockerized)

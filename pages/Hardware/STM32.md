@@ -6,6 +6,8 @@ description: Resources on STM32
 type: [[Hardware]]
 ---
 
+**Parent:** [[Hardware]]
+
 # Programming frameworks
 ## [STM32duino](https://github.com/stm32duino/wiki/wiki)
 * [STM32duino libraries](https://www.arduinolibraries.info/)

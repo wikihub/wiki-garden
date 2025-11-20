@@ -8,6 +8,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 # Google Cloud Platform
 - [Awesome Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
 - [Awesome Google Cloud Platform](https://github.com/tmrts/awesome-google-cloud)

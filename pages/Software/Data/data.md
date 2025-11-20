@@ -6,6 +6,8 @@ weight: 70
 description: News and information about data engineering
 type: [[Software]]
 feature: [[Data]]
+
+**Parent:** [[Software]]
 ---
 
 ## SQL

@@ -7,4 +7,6 @@ type: [[Software]]
 feature: [[Programming]]
 ---
 
+**Parent:** [[Programming]]
+
 * [Awesome Go](https://awesome-go.com/)

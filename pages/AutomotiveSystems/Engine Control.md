@@ -7,6 +7,8 @@ type: [[Automotive Systems]]
 features: [[Engine Control]]
 ---
 
+**Parent:** [[Automotive Systems]]
+
 # Companies
 
 * [New Eagle](https://neweagle.net/)

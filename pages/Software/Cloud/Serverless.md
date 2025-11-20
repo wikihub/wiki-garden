@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 # Infrastructure
 
 * [Serverless Cloud Native Landscape](https://landscape.cncf.io/serverless?zoom=150)

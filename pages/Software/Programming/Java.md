@@ -7,6 +7,8 @@ type: [[Software]]
 feature: [[Programming]]
 ---
 
+**Parent:** [[Programming]]
+
 # Install
 
 * [Install Java with SDKMAN](https://developer.okta.com/blog/2019/01/16/which-java-sdk)

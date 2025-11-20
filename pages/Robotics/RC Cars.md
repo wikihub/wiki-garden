@@ -6,6 +6,8 @@ description: Resources for RC cars
 type: [[Robotics]]
 ---
 
+**Parent:** [[Robotics]]
+
 # RC Car Manufacturers
 ## Kyosho
 * [Mini Z](https://www.kyoshoamerica.com/32336PW-MINI-Z-RWD-TOYOTA-86-White_p_26021.html)

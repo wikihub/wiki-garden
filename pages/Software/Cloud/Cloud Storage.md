@@ -8,6 +8,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 * [Gluster](https://www.gluster.org/)
 
 ## MinIO

@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[Cloud]]
 ---
 
+**Parent:** [[Cloud]]
+
 * [AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
 * [EC2 Workshops](https://ec2spotworkshops.com/)
 * [AWS Toolkit](https://docs.aws.amazon.com/toolkit-for-vscode/latest/userguide/toolkit-navigation.html)

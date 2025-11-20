@@ -7,6 +7,8 @@ description: Linux resources
 type: [[Software]]
 ---
 
+**Parent:** [[DevOps]]
+
 # bash
 
 *   [30 bash script examples](https://linuxhint.com/30_bash_script_examples/)

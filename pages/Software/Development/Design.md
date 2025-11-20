@@ -9,6 +9,8 @@ type: [[Software]]
 feature: [[Software Development]]
 ---
 
+**Parent:** [[Development]]
+
 * [Smartphones and Mobile Money: Principles for UI/UX Design (1.0)](https://www.cgap.org/research/slide-deck/smartphones-and-mobile-money-principles-uiux-design-10)
 
 # Design Patterns

@@ -7,6 +7,8 @@ type: [[Software]]
 feature: [[Programming]]
 ---
 
+**Parent:** [[Programming]]
+
 # Learning Resources
 * [Modern C++ at the University of Bonn](https://youtu.be/sZK6ouwREXA)
 * [The C++ Programming Language, Bjarne Stroustrup](https://www.stroustrup.com/C++.html)
