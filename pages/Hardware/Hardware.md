@@ -4,7 +4,10 @@ linkTitle: "Hardware"
 weight: 20
 description: Hardware components, systems, and resources
 type: [[Hardware]]
-tags: [Software, Robotics, Automotive Systems]
+tags:
+  - Software
+  - Robotics
+  - Automotive Systems
 ---
 
 ## Overview

@@ -4,7 +4,10 @@ linkTitle: "Robotics"
 weight: 30
 description: Resources for robotics development, platforms, and applications
 type: [[Robotics]]
-tags: [Software, Hardware, Automotive Systems]
+tags:
+  - Software
+  - Hardware
+  - Automotive Systems
 ---
 
 ## Overview
