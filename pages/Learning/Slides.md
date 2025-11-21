@@ -7,8 +7,6 @@ description: Resources for learning with slides
 type: [[Learning]]
 ---
 
-**Parent:** [[Learning]]
-
 ## Markdown
 *   [binb](https://github.com/eddelbuettel/binb)
 *   [HK-journalist](https://github.com/li-xin-yi/HK-journalist)

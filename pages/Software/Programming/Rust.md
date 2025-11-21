@@ -3,10 +3,7 @@ title: Rust
 linkTitle: "Rust"
 weight: 25
 description: Resources for Rust programming
-type: [[Software]]
-feature: [[Programming]]
+type: [[Programming]]
 ---
-
-**Parent:** [[Programming]]
 
 * [Rust programming language](https://www.rust-lang.org/)

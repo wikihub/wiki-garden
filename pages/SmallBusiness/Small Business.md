@@ -3,10 +3,8 @@ title: Small Business
 linkTitle: "Small Business"
 weight: 200
 description: Resources for running a small business
-type: [[Small Business]]
+type: [[SmallBusiness]]
 ---
-
-**Parent:** [[Small Business]]
 
 ## Core Topics
 
@@ -16,7 +14,6 @@ type: [[Small Business]]
 - [[Short Term Rentals]] - Short-term rental management
 
 ## Accounting
-
 
 * [Sage 50](https://www.sage.com/en-ca/products/sage-50cloud/)
 * [QuickBooks Online](https://quickbooks.intuit.com/ca/pricing/)

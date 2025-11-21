@@ -3,8 +3,7 @@ title: Perception
 linkTitle: "Perception"
 weight: 20
 description: Resources on machine vision for robots
-type: [[Robotics]]
-feature: [[Machine Vision]]
+type: [[Vision]]
 ---
 
 * [Jetson inference](https://github.com/dusty-nv/jetson-inference)

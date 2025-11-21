@@ -7,8 +7,6 @@ description: Resources about development environments
 type: [[Software]]
 ---
 
-**Parent:** [[Software]]
-
 # IDE
 
 *   [Makefile and Visual Studio Code](https://stackoverflow.com/questions/34937092/why-does-visual-studio-code-insert-spaces-when-editing-a-makefile-and-editor-in)

@@ -3,11 +3,8 @@ title: C++
 linkTitle: "C++"
 weight: 20
 description: Resources for C++ programming
-type: [[Software]]
-feature: [[Programming]]
+type: [[Programming]]
 ---
-
-**Parent:** [[Programming]]
 
 # Learning Resources
 * [Modern C++ at the University of Bonn](https://youtu.be/sZK6ouwREXA)

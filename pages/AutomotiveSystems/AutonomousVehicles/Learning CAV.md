@@ -3,7 +3,7 @@ title: Learning CAV
 linkTitle: "Learning CAV"
 date: 2020-04-06
 description: News and learning resources on connected autonomous vehicles
-type: [[Automotive Systems]]
+type: [[AutonomousVehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

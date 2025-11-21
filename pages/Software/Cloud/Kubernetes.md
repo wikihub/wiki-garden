@@ -5,11 +5,8 @@ linkTitle: "Kubernetes"
 date: 2019-05-04  
 weight: 25  
 description: News and information about Kubernetes
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 * [Awesome cloud native](https://jimmysong.io/awesome-cloud-native/)
 

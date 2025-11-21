@@ -4,11 +4,8 @@ linkTitle: "Containers"
 date: 2019-04-11
 weight: 25
 description: News and information about containers
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 # Design Patterns
 * [Containers Patterns](https://l0rd.github.io/containerspatterns/#1)

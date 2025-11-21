@@ -6,8 +6,6 @@ description: Robot safety resources
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 # Standards
 * [Safety Integrity Level (SIL)](https://en.wikipedia.org/wiki/Safety_integrity_level)
 * [Whiteboard Wednesdays - The Truth about Designing for Automotive Functional Safety](https://youtu.be/hj5o555gUeo)

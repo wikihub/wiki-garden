@@ -6,8 +6,6 @@ description: Resources for applications of robotics
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 # Applications
 ## Agriculture
 

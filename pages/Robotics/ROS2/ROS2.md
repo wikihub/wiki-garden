@@ -4,12 +4,9 @@ linkTitle: "ROS2"
 date: 2019-04-18
 description: News and information about web applications for ROS2
 type: [[Robotics]]
-feature: [[ROS2]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Robotics]]
 
 **Related Topics:**
 - [[Learning ROS2]]

@@ -1,4 +1,3 @@
-**Parent:** [[Programming]]
 
 title:: Node.js
 ---
@@ -6,8 +5,7 @@ title: Node.js
 linkTitle: "Node.js"
 weight: 25
 description: Resources for the Node.js language
-type: [[Software]]
-feature: [[Programming]]
+type: [[Programming]]
 ---
 
 # Yarn

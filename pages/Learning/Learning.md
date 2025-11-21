@@ -27,7 +27,6 @@ type: [[Learning]]
 
 ## EdTech
 
-
 - [Top tools for learning](https://www.toptools4learning.com/)
 - [Digital Promise](https://digitalpromise.org/initiative/instructional-coaching/instructional-coaching-playbook/about-this-playbook/)
 - [Self-hosted learning and courses](https://github.com/awesome-selfhosted/awesome-selfhosted#learning-and-courses)

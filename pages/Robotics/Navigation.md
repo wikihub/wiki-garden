@@ -7,8 +7,6 @@ description: Resources for Navigation algorithms and tools
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 # Navigation
 
 * [Rough terrain navigation using Deep Reinforcement Learning Part 1](https://discuss.ardupilot.org/t/project-rough-terrain-navigation-using-deep-reinforcement-learning-part-1/77016)

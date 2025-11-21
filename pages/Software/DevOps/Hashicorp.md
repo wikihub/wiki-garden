@@ -5,11 +5,8 @@ linkTitle: "Hashicorp"
 date: 2021-07-31  
 weight: 25
 description: News and information about Terraform, Nomad, Vault, Consul
-type: [[Software]]
-feature: [[DevOps]]
+type: [[DevOps]]
 ---
-
-**Parent:** [[DevOps]]
 
 * [HashiQube](https://hashiqube.com)
 * [Hashicorp Katakoda](https://github.com/hashicorp/katakoda/tree/master/securing-nomad/nomad-enable-acls)

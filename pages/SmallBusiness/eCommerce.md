@@ -3,10 +3,8 @@ title: eCommerce
 linkTitle: "eCommerce"
 weight: 200
 description: Resources for eCommerce
-type: [[Small Business]]
+type: [[SmallBusiness]]
 ---
-
-**Parent:** [[Small Business]]
 
 * [Megento](https://magento.com/)
 

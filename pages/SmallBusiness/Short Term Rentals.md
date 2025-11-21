@@ -3,10 +3,8 @@ title: Short Term Rentals
 linkTitle: "Short Term Rentals"
 weight: 100
 description: Resources for short term rentals
-type: [[Small Business]]
+type: [[SmallBusiness]]
 ---
-
-**Parent:** [[Small Business]]
 
 * [AirDNA](https://www.airdna.co)
 

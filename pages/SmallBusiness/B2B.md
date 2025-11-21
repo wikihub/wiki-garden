@@ -3,10 +3,8 @@ title: B2B
 linkTitle: "B2B"
 weight: 200
 description: Resources for B2B projects
-type: [[Small Business]]
+type: [[SmallBusiness]]
 ---
-
-**Parent:** [[Small Business]]
 
 # Companies
 

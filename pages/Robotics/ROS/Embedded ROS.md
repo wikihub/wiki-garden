@@ -3,8 +3,7 @@ title: Embedded ROS
 linkTitle: "Embedded ROS"
 date: 2019-04-02
 description: News and information about learning ROS
-type: [[Robotics]]
-feature: [[ROS]]
+type: [[ROS]]
 ---
 
 # ROS

@@ -3,13 +3,11 @@ title: Autonomous Vehicles
 linkTitle: "Autonomous Vehicles"
 weight: 5
 description: Autonomous vehicle technologies, platforms, and applications
-type: [[Automotive Systems]]
+type: [[AutonomousVehicles]]
 features: [[Autonomous Vehicles]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Automotive Systems]]
 
 ## Core Topics
 
@@ -50,7 +48,6 @@ features: [[Autonomous Vehicles]]
 - [[Canadian CAV]] - Canadian autonomous vehicle initiatives
 
 ## Standards
-
 
 * [Shared Streets](https://sharedstreets.io/)
 * [MPAI-CAV](https://mpai.community/standards/mpai-cav/use-cases-and-functional-requirements/)

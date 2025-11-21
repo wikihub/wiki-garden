@@ -3,11 +3,9 @@ title: Vehicle Dynamics
 linkTitle: "Vehicle Dynamics"
 weight: 5
 description: Vehicle Dynamics
-type: [[Automotive Systems]]
+type: [[AutomotiveSystems]]
 features: [[Vehicle Dynamics]]
 ---
-
-**Parent:** [[Automotive Systems]]
 
 # Python
 

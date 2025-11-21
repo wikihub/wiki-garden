@@ -3,11 +3,8 @@ linkTitle: "Software Development Life Cycle"
 date: 2022-02-21  
 weight: 60  
 description: News and information about software development life cycle
-type: [[Software]]
-feature: [[Software Development]]
+type: [[Development]]
 ---
-
-**Parent:** [[Development]]
 
 # Software Development Life Cycle
 

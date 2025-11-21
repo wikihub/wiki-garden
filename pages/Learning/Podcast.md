@@ -7,8 +7,6 @@ description: Podcasts for learning
 type: [[Learning]]
 ---
 
-**Parent:** [[Learning]]
-
 * [The Tim Ferriss Show](https://tim.blog/podcast/)
 * [The Knowledge Project](https://fs.blog/knowledge-podcast/)
 * [Deviate](https://rolfpotts.com/deviate/)

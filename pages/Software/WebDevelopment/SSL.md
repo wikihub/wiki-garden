@@ -1,6 +1,5 @@
 ---
-type: [[Software]]
-feature: [[Web Development]]
+type: [[WebDevelopment]]
 ---
 
 # SSL

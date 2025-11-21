@@ -1,10 +1,7 @@
 ---
 title: Freelancing
-type: [[Software]]
-feature: [[Freelancing]]
+type: [[Learning]]
 ---
-
-**Parent:** [[Learning]]
 
 - [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk)
 - [Freelancing in Finland](https://github.com/sam-hosseini/freelancing-in-finland)

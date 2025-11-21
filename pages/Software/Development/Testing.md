@@ -4,11 +4,8 @@ linkTitle: "Testing"
 date: 2019-02-22
 weight: 60
 description: News and information about testing and necessary tools
-type: [[Software]]
-feature: [[Software Development]]
+type: [[Development]]
 ---
-
-**Parent:** [[Development]]
 
 # Hardware Unit Testing
 * [Test driven development for embedded C](https://pragprog.com/titles/jgade/test-driven-development-for-embedded-c)

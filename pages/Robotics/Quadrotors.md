@@ -6,8 +6,6 @@ description: Resources for quadrotors
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 * [CrazyFlie](https://store.bitcraze.io/products/crazyflie-2-1)
 * [PX4](https://github.com/PX4)
 * [Ardupilot](https://ardupilot.org/dev/index.html)

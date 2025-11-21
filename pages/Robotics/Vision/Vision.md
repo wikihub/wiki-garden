@@ -8,8 +8,6 @@ type: [[Robotics]]
 
 ## Related Pages
 
-**Parent:** [[Robotics]]
-
 **Topics:**
 - [[Perception]] - Machine vision for robots
 

@@ -7,8 +7,6 @@ description: Resources for writing eBooks
 type: [[Learning]]
 ---
 
-**Parent:** [[Learning]]
-
 *   [Builder book](https://builderbook.org/)
 
 # [Coko Foundation](https://coko.foundation/)

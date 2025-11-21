@@ -5,12 +5,9 @@ date: 2021-05-06
 weight: 70
 description: News and information about cloud computing services
 type: [[Software]]
-feature: [[Cloud]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Software]]
 
 ## Sub-Categories
 
@@ -33,7 +30,6 @@ feature: [[Cloud]]
 
 ### Advanced Topics
 - [[Edge Computing]]
-
 
 ## Cloud CPU
 

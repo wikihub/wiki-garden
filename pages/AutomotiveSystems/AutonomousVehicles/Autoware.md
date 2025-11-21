@@ -3,7 +3,7 @@ title: Autoware
 linkTitle: "Autoware"
 date: 2020-02-06
 description: News and resources on Autoware
-type: [[Automotive Systems]]
+type: [[AutonomousVehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

@@ -4,10 +4,8 @@ linkTitle: "Data"
 date: 2023-01-25
 weight: 70
 description: News and information about data engineering
-type: [[Software]]
-feature: [[Data]]
+type: [[Data]]
 
-**Parent:** [[Software]]
 ---
 
 ## SQL

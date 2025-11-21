@@ -6,8 +6,6 @@ description: Resources for learning robotics
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 * [Robotics courses](https://github.com/mithi/robotics-coursework)
 * [EZ Robot](https://www.ez-robot.com/)
 * [cubelets](https://modrobotics.com/)

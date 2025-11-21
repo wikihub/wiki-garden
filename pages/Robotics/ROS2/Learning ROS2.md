@@ -3,9 +3,7 @@ title: Learning ROS2
 linkTitle: "Learning ROS 2"
 date: 2019-02-22
 description: News and information about learning ROS 2
-type: [[Robotics]]
-feature: [[ROS2]]
-feature: [[Learning]]
+type: [[ROS2]]
 ---
 
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2)

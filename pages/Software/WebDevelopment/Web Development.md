@@ -4,13 +4,10 @@ linkTitle: "Web Development"
 date: 2019-02-22
 weight: 70
 description: News and information about web development technologies
-type: [[Software]]
-feature: [[Web Development]]
+type: [[WebDevelopment]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Software]]
 
 ## Core Topics
 

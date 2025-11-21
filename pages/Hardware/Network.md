@@ -6,8 +6,6 @@ description: Network and Internet resources
 type: [[Hardware]]
 ---
 
-**Parent:** [[Hardware]]
-
 # Network setup
 
 * [How to connect PC to PC using a LAN cable](https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/)

@@ -7,8 +7,6 @@ description: Resources on CAN networking
 type: [[Hardware]]
 ---
 
-**Parent:** [[Hardware]]
-
 *   [CAN newsletter](https://can-newsletter.org/)
 *   [CAN wiki](http://www.can-wiki.info/doku.php?id=start)
 *   [UAVCAN](https://uavcan.org/)

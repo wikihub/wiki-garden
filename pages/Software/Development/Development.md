@@ -6,12 +6,9 @@ date: 2019-02-22
 weight: 60  
 description: News and information about software development and necessary tools
 type: [[Software]]
-feature: [[Software Development]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Software]]
 
 ## Sub-Categories
 
@@ -20,7 +17,6 @@ feature: [[Software Development]]
 - [[Testing]]
 
 ## Open Source
-
 
 * [Open source guide](https://opensource.guide/)
 * [Open source agenda](https://www.opensourceagenda.com/)

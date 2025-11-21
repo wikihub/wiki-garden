@@ -5,11 +5,8 @@ linkTitle: "Email Servers"
 date: 2020-10-11  
 weight: 70  
 description: News and information about email servers
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 * [Postal](https://docs.postalserver.io/)
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/)

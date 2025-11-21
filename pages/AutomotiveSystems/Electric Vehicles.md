@@ -3,11 +3,9 @@ title: Electric Vehicles
 linkTitle: "Electric Vehicles"
 date: 2019-02-22
 description: News and information about electric vehicles
-type: [[Automotive Systems]]
+type: [[AutomotiveSystems]]
 features: [[Electric Vehicles]]
 ---
-
-**Parent:** [[Automotive Systems]]
 
 # Platforms
 ## AUTO

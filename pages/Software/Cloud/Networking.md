@@ -2,11 +2,8 @@
 title: Networking
 linkTitle: "Networking"
 weight: 20
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 * [Docker networks](https://geek-cookbook.funkypenguin.co.nz/reference/networks/)
 

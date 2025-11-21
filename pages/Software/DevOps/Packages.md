@@ -4,10 +4,8 @@ linkTitle: "Packages"
 date: 2019-04-28
 weight: 25
 description: News and information about software packages
-type: [[Software]]
+type: [[DevOps]]
 ---
-
-**Parent:** [[DevOps]]
 
 # Nix
 

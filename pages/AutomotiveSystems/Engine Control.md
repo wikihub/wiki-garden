@@ -3,11 +3,9 @@ title: Engine Control
 linkTitle: "Engine Control"
 date: 2020-02-06
 description: News and information about automotive engines
-type: [[Automotive Systems]]
+type: [[AutomotiveSystems]]
 features: [[Engine Control]]
 ---
-
-**Parent:** [[Automotive Systems]]
 
 # Companies
 

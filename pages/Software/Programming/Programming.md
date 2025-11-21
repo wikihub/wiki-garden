@@ -5,12 +5,9 @@ linkTitle: "Programming"
 weight: 40  
 description: Programming resources
 type: [[Software]]
-feature: [[Programming]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Software]]
 
 ## Programming Languages
 
@@ -65,7 +62,6 @@ feature: [[Programming]]
   * [Trie](https://en.wikipedia.org/wiki/Trie)
   * [Heaps, heapsort, and priority queues](https://youtu.be/pLIajuc31qk)
   * [Data Structures and Algorithms in C/C++](https://github.com/amitbansal7/Data-Structures-and-Algorithms)
-
 
 # Algorithms
 

@@ -6,12 +6,9 @@ date: 2019-02-22
 weight: 60  
 description: News and information about DevOps technologies and tools
 type: [[Software]]
-feature: [[DevOps]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Software]]
 
 ## Sub-Categories
 

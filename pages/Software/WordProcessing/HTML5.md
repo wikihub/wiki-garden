@@ -5,8 +5,6 @@ date: 2019-03-07
 description: News and information about HTML5
 ---
 
-**Parent:** [[Word Processing]]
-
 * [HTML5 is the future of book authorship](http://collapsehtml5.wordpress.com/2013/09/23/html5-is-the-future-of-book-authorship/)
 * [Bootswatch](http://bootswatch.com/)
 * [Build with bootstrap](http://builtwithbootstrap.com/)

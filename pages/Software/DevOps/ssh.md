@@ -4,10 +4,8 @@ title: "ssh"
 linkTitle: "ssh"  
 weight: 40  
 description: Resources about ssh connections
-type: [[Software]]
+type: [[DevOps]]
 ---
-
-**Parent:** [[DevOps]]
 
 *   [Official ssh website](https://www.ssh.com)
 *   [Generate ssh key for a remote computer](https://www.ssh.com/ssh/keygen)

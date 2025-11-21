@@ -5,11 +5,8 @@ linkTitle: "Serverless"
 date: 2020-10-11  
 weight: 70  
 description: News and information about serverless technologies
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 # Infrastructure
 

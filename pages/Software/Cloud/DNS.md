@@ -5,11 +5,8 @@ linkTitle: "DNS"
 date: 2022-01-30  
 weight: 70  
 description: News and information about domain name servers
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 * [naked domain redirect](http://wwwizer.com/naked-domain-redirect)
 * To see the DNS servers, run: `resolvectl`

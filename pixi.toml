@@ -1,0 +1,14 @@
+[project]
+name = "wiki-garden"
+version = "0.1.0"
+description = "Wiki Garden knowledge base management tools"
+authors = ["Behzad <behzad@example.com>"]
+channels = ["conda-forge"]
+platforms = ["linux-64", "osx-64", "win-64", "osx-arm64"]
+
+[tasks]
+fix-hierarchy = "python fix_type_hierarchy.py"
+cleanup-metadata = "python cleanup_metadata.py"
+
+[dependencies]
+python = ">=3.9"

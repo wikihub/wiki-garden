@@ -6,8 +6,6 @@ description: Resources for algorithms in robotics
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 * [Orebro University](https://github.com/OrebroUniversity)
 * [Iliad project](https://iliad-project.eu/)
 

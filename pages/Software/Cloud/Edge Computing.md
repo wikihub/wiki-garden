@@ -4,11 +4,8 @@ linkTitle: "Edge Computing"
 date: 2019-04-13
 weight: 20
 description: News and information about edge computing
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 # STM32
 * [Using Visual Studio Code with STM32CubeMX for ARM Development](https://hbfsrobotics.com/blog/configuring-vs-code-arm-development-stm32cubemx)

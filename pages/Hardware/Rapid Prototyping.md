@@ -6,8 +6,6 @@ description: News and information about rapid prototyping
 type: [[Hardware]]
 ---
 
-**Parent:** [[Hardware]]
-
 * [NGen](https://www.ngen.ca/)
 
 # CAD

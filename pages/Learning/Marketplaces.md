@@ -7,8 +7,6 @@ description: Resources for marketplaces for learning
 type: [[Learning]]
 ---
 
-**Parent:** [[Learning]]
-
 * [12 Killer Ideas for How to Market Your Online Course](https://optinmonster.com/how-to-market-your-online-course/)
 * [Top 12 Online Course Marketplaces (To Sell Your Courses)](https://instructor-academy.onlinecoursehost.com/best-online-course-marketplaces/)
 * [19 Best Online Course Platforms for 2023 (Tried & Tested)](https://sellcoursesonline.com/best-online-course-platforms)

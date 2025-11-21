@@ -4,11 +4,8 @@ linkTitle: "MLOps"
 date: 2021-12-22
 weight: 30
 description: News and information about machine learning DevOps
-type: [[Software]]
-feature: [[Machine Learning]]
+type: [[MachineLearning]]
 ---
-
-**Parent:** [[MachineLearning]]
 
 * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 * [Data labeling](https://madewithml.com/courses/mlops/labeling/)

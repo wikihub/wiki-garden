@@ -5,11 +5,8 @@ linkTitle: "Jenkins"
 date: 2021-07-31  
 weight: 25
 description: News and information about Jenkins
-type: [[Software]]
-feature: [[DevOps]]
+type: [[DevOps]]
 ---
-
-**Parent:** [[DevOps]]
 
 # Jenkins
 # [Jenkins](https://www.jenkins.io/)

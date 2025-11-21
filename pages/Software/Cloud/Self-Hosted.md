@@ -1,11 +1,8 @@
 ---
 title: Self-Hosted
 description: News and information about self-hosted applications
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 ## Docker
 

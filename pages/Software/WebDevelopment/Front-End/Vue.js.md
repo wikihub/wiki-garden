@@ -5,9 +5,7 @@ linkTitle: "Vue.js"
 date: 2019-04-20
 weight: 70
 description: News and information about Vue.js tools
-type: [[Software]]
-feature: [[Web Development]]
-feature: [[Front-End]]
+type: [[Front-End]]
 ---
 
 # [Vue.js](https://vuejs.org/)

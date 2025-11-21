@@ -4,11 +4,8 @@ linkTitle: "Cloud Storage"
 date: 2021-12-09
 weight: 70
 description: News and information about cloud storage
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 * [Gluster](https://www.gluster.org/)
 

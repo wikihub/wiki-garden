@@ -7,8 +7,6 @@ description: News and information about Markdown
 
 ---
 
-**Parent:** [[Word Processing]]
-
 ## Markdown
 
 * [Markdown Guide](https://www.markdownguide.org/)

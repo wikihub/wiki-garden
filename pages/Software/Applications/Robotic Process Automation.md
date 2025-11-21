@@ -4,7 +4,7 @@ linkTitle: "Robotic Process Automation"
 date: 2020-11-08
 weight: 40
 description: News and information about robotic process automation and its applications
-type: [[Software]]
+type: [[Applications]]
 ---
 
 # Companies

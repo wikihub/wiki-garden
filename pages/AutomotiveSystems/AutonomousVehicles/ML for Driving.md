@@ -3,7 +3,7 @@ title: ML for Driving
 linkTitle: "ML for Driving"
 weight: 5
 description: Machine Learning Applications in Autonomous Vehicles
-type: [[Automotive Systems]]
+type: [[AutonomousVehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

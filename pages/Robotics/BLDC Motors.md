@@ -4,10 +4,7 @@ linkTitle: BLDC Motors
 weight: 20
 description: BLDC motors and controller resources
 type: [[Robotics]]
-feature: [[Hardware]]
 ---
-
-**Parent:** [[Robotics]]
 
 # Motor Controllers
 

@@ -4,8 +4,7 @@ title: "Cloud Robotics"
 linkTitle: "Cloud Robotics"  
 date: 2019-04-08  
 description: News and information about web applications for ROS-based robots
-type: [[Robotics]]
-feature: [[ROS]]
+type: [[ROS]]
 ---
 
 # Cloud Robotics

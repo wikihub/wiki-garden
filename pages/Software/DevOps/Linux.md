@@ -4,10 +4,8 @@ title: "Linux"
 linkTitle: "Linux"  
 weight: 40  
 description: Linux resources
-type: [[Software]]
+type: [[DevOps]]
 ---
-
-**Parent:** [[DevOps]]
 
 # bash
 
@@ -47,7 +45,6 @@ type: [[Software]]
 * [Cobbler](https://cobbler.github.io/)
 * [MAAS](https://maas.io/)
 * [TinyPilot](https://github.com/tiny-pilot/tinypilot)
-
 
 # Package Managers
 
@@ -89,7 +86,6 @@ type: [[Software]]
 
 *   [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page)
 *   [Linux Hint](https://linuxhint.com/)
-
 
 # log
 

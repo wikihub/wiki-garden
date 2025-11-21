@@ -6,8 +6,6 @@ description: News and information about robot components
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 * [Advanced Motion Controls](https://www.a-m-c.com/)
 * [Elmo Motion Control](https://www.elmomc.com/)
 * [Energid](https://www.energid.com/)

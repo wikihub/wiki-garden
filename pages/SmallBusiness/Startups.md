@@ -3,10 +3,8 @@ title: Startups
 linkTitle: "Startups"
 weight: 200
 description: Resources for startups
-type: [[Small Business]]
+type: [[SmallBusiness]]
 ---
-
-**Parent:** [[Small Business]]
 
 # Startups
 ## Canadian

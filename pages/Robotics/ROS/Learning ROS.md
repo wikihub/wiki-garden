@@ -3,9 +3,7 @@ title: Learning ROS
 linkTitle: "Learning ROS"
 date: 2019-02-22
 description: News and information about learning ROS
-type: [[Robotics]]
-feature: [[ROS]]
-feature: [[Learning]]
+type: [[ROS]]
 ---
 
 # Start

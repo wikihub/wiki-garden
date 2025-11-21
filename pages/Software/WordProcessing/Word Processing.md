@@ -8,8 +8,6 @@ description: News and information about word processing tools
 
 ## Related Pages
 
-**Parent:** [[Software]]
-
 ## Sub-Categories
 - [[Emacs]]
 - [[HTML5]]

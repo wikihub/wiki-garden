@@ -7,8 +7,6 @@ description: News and information about sensors
 type: [[Hardware]]
 ---
 
-**Parent:** [[Hardware]]
-
 # Odometry
 
 *   [Odometry for differential drive vehicle without encoders](https://medium.com/@waleedmansoor/how-i-built-ros-odometry-for-differential-drive-vehicle-without-encoder-c9f73fe63d87)

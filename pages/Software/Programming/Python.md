@@ -1,9 +1,6 @@
 ---
-type: [[Software]]
-feature: [[Programming]]
+type: [[Programming]]
 ---
-
-**Parent:** [[Programming]]
 
 # Python
 

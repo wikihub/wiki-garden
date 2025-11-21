@@ -2,8 +2,6 @@
 type: [[Hardware]]
 ---
 
-**Parent:** [[Hardware]]
-
 # References
 
 - [Awesome embedded](https://github.com/nhivp/Awesome-Embedded)

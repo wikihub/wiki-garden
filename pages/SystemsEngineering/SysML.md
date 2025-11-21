@@ -3,10 +3,8 @@ title: SysML
 linkTitle: "SysML"
 weight: 15
 description: Resources and tools for SysML
-type: [[Systems Engineering]]
+type: [[SystemsEngineering]]
 ---
-
-**Parent:** [[Systems Engineering]]
 
 # References
 * [OMG SysML](http://www.omgsysml.org/)

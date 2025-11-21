@@ -3,10 +3,8 @@ title: JavaScript
 linkTitle: "JavaScript"
 weight: 25
 description: Resources for JavaScript
-type: [[Software]]
+type: [[Programming]]
 ---
-
-**Parent:** [[Programming]]
 
 # Node.js
 

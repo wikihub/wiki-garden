@@ -4,13 +4,10 @@ linkTitle: "Machine Learning"
 date: 2019-02-22
 weight: 30
 description: News and information about machine learning and its applications
-type: [[Software]]
-feature: [[Machine Learning]]
+type: [[MachineLearning]]
 ---
 
 ## Related Pages
-
-**Parent:** [[Software]]
 
 ## Core Topics
 
@@ -24,7 +21,6 @@ feature: [[Machine Learning]]
 - [[MLOps]] - Machine Learning Operations
 
 ## Reproducibility
-
 
 * [Why Git and Git-LFS is not enough to solve the Machine Learning Reproducibility crisis](https://towardsdatascience.com/why-git-and-git-lfs-is-not-enough-to-solve-the-machine-learning-reproducibility-crisis-f733b49e96e8)
 # Awesome Machine Learning

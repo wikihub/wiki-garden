@@ -4,11 +4,8 @@ linkTitle: "Google Cloud Platform"
 date: 2021-08-28
 weight: 70
 description: News and information about the Google cloud platform
-type: [[Software]]
-feature: [[Cloud]]
+type: [[Cloud]]
 ---
-
-**Parent:** [[Cloud]]
 
 # Google Cloud Platform
 - [Awesome Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)

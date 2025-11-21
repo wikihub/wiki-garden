@@ -6,6 +6,4 @@ description: Resources for indoor positioning
 type: [[Robotics]]
 ---
 
-**Parent:** [[Robotics]]
-
 * [Pozyx](https://www.pozyx.io/)

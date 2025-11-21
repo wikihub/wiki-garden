@@ -3,11 +3,8 @@ title: Java
 linkTitle: "Java"
 weight: 25
 description: Resources for Java computing
-type: [[Software]]
-feature: [[Programming]]
+type: [[Programming]]
 ---
-
-**Parent:** [[Programming]]
 
 # Install
 
