@@ -35,7 +35,7 @@ Based on directory analysis, the following folders exist under `/pages`:
 13. **Skills** - 1 child
 14. **SmallBusiness** - 5 children
 15. **Software** - 79 children (includes 11 subfolders) ✅ **COMPLETED**
-16. **SystemsEngineering** - 8 children
+16. **Systems Engineering** - 8 children
 17. **eMobility** - 1 child
 
 ### Identified Subfolders (Depth 2+)
@@ -90,7 +90,7 @@ These folders have multiple subfolders and/or many children requiring significan
 #### 4. Learning (11 children)
 - **Action:** Review and structure with proper links
 
-#### 5. SystemsEngineering (8 children)
+#### 5. Systems Engineering (8 children)
 - **Action:** Review and structure with proper links
 
 #### 6. SmallBusiness (5 children)
@@ -202,7 +202,7 @@ type: [[Folder Name]]
 ### Recommended Order
 
 1. **Start with high-complexity folders** (Robotics, AutomotiveSystems, Hardware)
-2. **Move to medium-complexity folders** (Learning, SystemsEngineering, SmallBusiness)
+2. **Move to medium-complexity folders** (Learning, Systems Engineering, SmallBusiness)
 3. **Handle simple folders** (single-child folders)
 4. **Update all subfolders** with proper parent/child linking
 5. **Create missing main pages** for subfolders that lack them

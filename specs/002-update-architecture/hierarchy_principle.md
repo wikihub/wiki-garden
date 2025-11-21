@@ -102,7 +102,7 @@ This creates a clear, navigable tree structure where:
    - AutonomousVehicles/* → `[[Autonomous Vehicles]]`
 
 4. **Systems Engineering** (8 files)
-   - All files → `[[SystemsEngineering]]`
+   - All files → `[[Systems Engineering]]`
 
 5. **Small Business** (5 files)
    - All files → `[[SmallBusiness]]`

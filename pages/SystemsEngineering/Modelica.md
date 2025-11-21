@@ -3,7 +3,7 @@ title: Modelica
 linkTitle: "Modelica"
 weight: 15
 description: Resources and tools for Modelica
-type: [[SystemsEngineering]]
+type: [[Systems Engineering]]
 ---
 
 # OpenModelica

@@ -3,7 +3,7 @@ title: Systems Engineering
 linkTitle: "Systems Engineering"
 weight: 15
 description: Resources and tools for Systems Engineering
-type: [[SystemsEngineering]]
+type: [[Systems Engineering]]
 ---
 
 ## Core Topics

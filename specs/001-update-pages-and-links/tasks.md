@@ -50,7 +50,7 @@
 - [x] Link all children
 - [x] Verify all links work correctly
 
-### SystemsEngineering (8 children) ✅ COMPLETE
+### Systems Engineering (8 children) ✅ COMPLETE
 - [x] List all children files/folders
 - [x] Analyze current main page
 - [x] Design category structure (3 categories)

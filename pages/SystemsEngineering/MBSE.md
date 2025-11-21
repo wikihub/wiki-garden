@@ -3,7 +3,7 @@ title: MBSE
 linkTitle: "MBSE"
 weight: 15
 description: Resources and tools for MBSE
-type: [[SystemsEngineering]]
+type: [[Systems Engineering]]
 ---
 
 - # Model Based Systems Engineering

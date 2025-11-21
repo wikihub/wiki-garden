@@ -19,7 +19,7 @@
     - [x] Ensure strict adherence to `categories_structure.md`
 
 ### Systems Engineering Domain
-- [x] Clean up `pages/SystemsEngineering/Systems Engineering.md`
+- [x] Clean up `pages/Systems Engineering/Systems Engineering.md`
     - [x] Structure according to `categories_structure.md`
     - [x] Remove inline `(See also: ...)` links
 
