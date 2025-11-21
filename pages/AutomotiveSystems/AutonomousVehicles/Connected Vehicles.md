@@ -3,7 +3,7 @@ title: Connected Vehicles
 linkTitle: "Connected Vehicles"
 weight: 5
 description: Connected Vehicles
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

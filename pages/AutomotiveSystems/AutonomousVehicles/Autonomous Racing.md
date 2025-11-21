@@ -3,7 +3,7 @@ title: Autonomous Racing
 linkTitle: "Autonomous Racing"
 weight: 5
 description: Autonomous Racing
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

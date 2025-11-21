@@ -4,7 +4,7 @@ linkTitle: "Document Analysis"
 date: 2022-08-24
 weight: 30
 description: News and information about document analysis algorithms
-type: [[MachineLearning]]
+type: [[Machine Learning]]
 ---
 
 * [Layout parser](https://layout-parser.github.io/)

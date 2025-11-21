@@ -3,7 +3,7 @@ title: Waymo
 linkTitle: "Waymo"
 date: 2020-04-18
 description: News and resources on Waymo
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

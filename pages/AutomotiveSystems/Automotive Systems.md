@@ -3,8 +3,11 @@ title: Automotive Systems
 linkTitle: "Automotive Systems"
 weight: 5
 description: Automotive systems, technologies, and innovations
-type: [[AutomotiveSystems]]
-tags: [Robotics, Hardware, Systems Engineering]
+type: [[Automotive Systems]]
+tags:
+  - Robotics
+  - Hardware
+  - Systems Engineering
 ---
 
 - ## Overview

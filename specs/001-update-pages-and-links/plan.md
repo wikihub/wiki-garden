@@ -51,10 +51,10 @@ Based on directory analysis, the following folders exist under `/pages`:
 - `Software/DevOps/`
 - `Software/Development/`
 - `Software/Games/`
-- `Software/MachineLearning/`
+- `Software/Machine Learning/`
 - `Software/Programming/`
-- `Software/WebDevelopment/` (includes Front-End subfolder)
-- `Software/WebDevelopment/Front-End/`
+- `Software/Web Development/` (includes Front-End subfolder)
+- `Software/Web Development/Front-End/`
 - `Software/WordProcessing/`
 
 ## Proposed Changes
@@ -123,9 +123,9 @@ Update subfolder main pages to link back to parent and to their children:
 - `Software/DevOps/` - Add main page with structure
 - `Software/Development/` - Add main page with structure
 - `Software/Games/` - Add main page with structure
-- `Software/MachineLearning/` - Add main page with structure
+- `Software/Machine Learning/` - Add main page with structure
 - `Software/Programming/` - Add main page with structure
-- `Software/WebDevelopment/` - Add main page with structure (includes Front-End subfolder)
+- `Software/Web Development/` - Add main page with structure (includes Front-End subfolder)
 - `Software/WordProcessing/` - ✅ Already has proper structure
 
 #### Robotics Subfolders

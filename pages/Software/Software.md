@@ -26,7 +26,7 @@ This section covers software development, tools, platforms, and technologies acr
 
 ### Data & AI
 - [[Data]]
-- [[MachineLearning]]
+- [[Machine Learning]]
 - [[Natural Language Processing]]
 
 ### Web & Applications

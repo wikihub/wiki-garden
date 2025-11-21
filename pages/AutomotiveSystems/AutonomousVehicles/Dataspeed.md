@@ -3,7 +3,7 @@ title: Dataspeed
 linkTitle: "Dataspeed"
 date: 2020-04-10
 description: News and resources on Dataspeed
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

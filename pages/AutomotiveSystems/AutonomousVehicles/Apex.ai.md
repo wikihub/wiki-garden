@@ -4,7 +4,7 @@ title: Apex.ai
 linkTitle: "Apex.ai"
 date: 2020-04-18
 description: News and resources on Apex.ai
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 * [Apex.AI on Gitlab](https://gitlab.com/ApexAI)

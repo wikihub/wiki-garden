@@ -2,7 +2,7 @@
 title: Autonomous Shuttles
 linkTitle: "Autonomous Shuttles"
 description: Autonomous Shuttles
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

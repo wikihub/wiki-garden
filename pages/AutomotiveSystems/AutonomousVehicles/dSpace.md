@@ -3,7 +3,7 @@ title: dSpace
 linkTitle: "dSpace"
 date: 2020-02-06
 description: News and resources on dSpace technologies
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

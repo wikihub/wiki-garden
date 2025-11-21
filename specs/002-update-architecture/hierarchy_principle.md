@@ -74,7 +74,7 @@ This created a flat network where the relationship between Programming languages
 With the immediate parent principle:
 - JavaScript → Programming → Software
 - Python → Programming → Software
-- React → Front-End → WebDevelopment → Software
+- React → Front-End → Web Development → Software
 
 This creates a clear, navigable tree structure where:
 1. Each page has exactly one primary parent
@@ -91,7 +91,7 @@ This creates a clear, navigable tree structure where:
 1. **Software** (67 regular + 8 index = 75 files)
    - Regular pages: Programming/* → `[[Programming]]`
    - Index pages: Programming/Programming.md → `[[Software]]`
-   - Other categories: Cloud, DevOps, Development, WebDevelopment, MachineLearning, etc.
+   - Other categories: Cloud, DevOps, Development, Web Development, Machine Learning, etc.
 
 2. **Robotics** (6 regular + 4 index = 10 files)
    - Regular pages: ROS/* → `[[ROS]]`
@@ -99,7 +99,7 @@ This creates a clear, navigable tree structure where:
    - Other categories: ROS2, Vision, Platforms
 
 3. **Automotive Systems** (27 files)
-   - AutonomousVehicles/* → `[[AutonomousVehicles]]`
+   - AutonomousVehicles/* → `[[Autonomous Vehicles]]`
 
 4. **Systems Engineering** (8 files)
    - All files → `[[SystemsEngineering]]`
@@ -122,7 +122,7 @@ Software/Programming/JavaScript.md
 
 ### Four-Level Example
 ```
-Software/WebDevelopment/Front-End/React.md
+Software/Web Development/Front-End/React.md
 ├── type: [[Front-End]]
 │   └── type: [[Web Development]]
 │       └── type: [[Software]]

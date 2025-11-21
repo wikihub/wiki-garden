@@ -4,7 +4,7 @@ linkTitle: "Speech"
 date: 2021-05-06
 weight: 50
 description: News and information about Speech synthesis and voice analysis
-type: [[MachineLearning]]
+type: [[Machine Learning]]
 ---
 
 # Datasets

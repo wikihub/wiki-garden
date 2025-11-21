@@ -47,7 +47,7 @@ We have identified several key intersection points where domains overlap:
 
 1.  **Robotics ↔ Software**
     *   *Intersection:* ROS/ROS2, Computer Vision, AI/ML, Embedded Software
-    *   *Links:* `[[Robotics/ROS]]` <-> `[[Software/Programming]]`, `[[Software/MachineLearning]]`
+    *   *Links:* `[[Robotics/ROS]]` <-> `[[Software/Programming]]`, `[[Software/Machine Learning]]`
 
 2.  **Robotics ↔ Hardware**
     *   *Intersection:* Sensors, Actuators, Microcontrollers, Embedded Systems

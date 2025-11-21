@@ -3,7 +3,7 @@ title: Vehicle Dynamics
 linkTitle: "Vehicle Dynamics"
 weight: 5
 description: Vehicle Dynamics
-type: [[AutomotiveSystems]]
+type: [[Automotive Systems]]
 features: [[Vehicle Dynamics]]
 ---
 

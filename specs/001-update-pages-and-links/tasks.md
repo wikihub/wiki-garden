@@ -90,9 +90,9 @@
 - [x] **DevOps/** - Updated with parent link, 3 files linked
 - [x] **Development/** - Updated with parent link, 3 files linked
 - [x] **Games/** - Single file, ready for expansion
-- [x] **MachineLearning/** - Updated with 2 categories, 5 files linked
+- [x] **Machine Learning/** - Updated with 2 categories, 5 files linked
 - [x] **Programming/** - Updated with parent link, 9 languages linked
-- [x] **WebDevelopment/** - Updated with 3 categories, 11 files linked
+- [x] **Web Development/** - Updated with 3 categories, 11 files linked
   - [~] `Front-End/` subfolder - To be addressed in future update
 - [x] **WordProcessing/** - Already complete
 
@@ -139,7 +139,7 @@
 - Consistent structure applied across all folders
 
 ### Future Recommendations
-1. **Front-End Subfolder**: Consider adding parent link to `Software/WebDevelopment/Front-End/` in future update
+1. **Front-End Subfolder**: Consider adding parent link to `Software/Web Development/Front-End/` in future update
 2. **Cross-Folder Links**: Add "Related Topics" sections for interconnected subjects across different folders
 3. **Automated Validation**: Implement automated link checker in CI/CD pipeline
 4. **Visual Sitemap**: Create visual diagram showing folder hierarchy and relationships

@@ -3,7 +3,7 @@ title: Autonomous Hardware
 linkTitle: "Autonomous Hardware"
 weight: 5
 description: Hardware suppliers for autonomous vehicles
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

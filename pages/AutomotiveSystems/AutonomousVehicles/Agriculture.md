@@ -3,7 +3,7 @@ title: Agriculture
 linkTitle: "Agriculture"
 date: 2020-02-06
 description: News and resources on autonomy in agriculture
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

@@ -3,7 +3,7 @@ title: Autonomous Vehicles
 linkTitle: "Autonomous Vehicles"
 weight: 5
 description: Autonomous vehicle technologies, platforms, and applications
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 ---
 
 ## Related Pages

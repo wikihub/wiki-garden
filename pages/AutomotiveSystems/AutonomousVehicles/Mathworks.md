@@ -3,7 +3,7 @@ title: Mathworks
 linkTitle: "Mathworks"
 date: 2020-02-06
 description: News and resources on Mathworks
-type: [[AutonomousVehicles]]
+type: [[Autonomous Vehicles]]
 features: [[Autonomous Vehicles]]
 ---
 

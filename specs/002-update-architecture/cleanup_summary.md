@@ -105,7 +105,7 @@ This cleanup complements the hierarchy simplification work:
 ## Files Affected
 
 ### By Domain:
-- **Software**: 67 files (Programming, Cloud, DevOps, Development, WebDevelopment, etc.)
+- **Software**: 67 files (Programming, Cloud, DevOps, Development, Web Development, etc.)
 - **Robotics**: 10 files (ROS, ROS2, Vision)
 - **Automotive Systems**: 27 files (AutonomousVehicles)
 - **Systems Engineering**: 8 files

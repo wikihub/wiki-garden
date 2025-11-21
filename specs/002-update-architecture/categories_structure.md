@@ -21,7 +21,7 @@ This document defines the **strict hierarchical structure** of the Wiki Garden. 
 
 ### Data & AI
 *   `[[Data]]`
-*   `[[MachineLearning]]`
+*   `[[Machine Learning]]`
 *   `[[Natural Language Processing]]`
 
 ### Web & Applications
