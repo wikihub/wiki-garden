@@ -4,7 +4,7 @@ linkTitle: "Web Platforms"
 date: 2021-04-25
 weight: 70
 description: News and information about web platforms
-type: [[WebDevelopment]]
+type: [[Web Development]]
 ---
 
 # Salesforce

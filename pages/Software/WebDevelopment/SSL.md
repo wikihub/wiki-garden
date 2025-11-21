@@ -1,5 +1,5 @@
 ---
-type: [[WebDevelopment]]
+type: [[Web Development]]
 ---
 
 # SSL

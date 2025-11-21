@@ -5,7 +5,7 @@ linkTitle: "Front-End"
 date: 2020-08-31  
 weight: 70  
 description: News and information about front-end development technologies
-type: [[WebDevelopment]]
+type: [[Web Development]]
 ---
 
 # Frontend

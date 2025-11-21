@@ -124,7 +124,7 @@ Software/Programming/JavaScript.md
 ```
 Software/WebDevelopment/Front-End/React.md
 ├── type: [[Front-End]]
-│   └── type: [[WebDevelopment]]
+│   └── type: [[Web Development]]
 │       └── type: [[Software]]
 │           └── (top-level domain)
 ```

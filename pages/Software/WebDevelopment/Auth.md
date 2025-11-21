@@ -5,7 +5,7 @@ linkTitle: "Authentication"
 date: 2020-08-01  
 weight: 70  
 description: News and information about authentication
-type: [[WebDevelopment]]
+type: [[Web Development]]
 ---
 
 * [AUTHDOG](https://www.authdog.com/)

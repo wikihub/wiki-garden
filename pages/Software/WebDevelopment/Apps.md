@@ -4,7 +4,7 @@ title: "Web Applications"
 linkTitle: "Web Applications"  
 weight: 40  
 description: Resources on mobile application development
-type: [[WebDevelopment]]
+type: [[Web Development]]
 ---
 
 # Desktop

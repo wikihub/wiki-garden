@@ -5,7 +5,7 @@ linkTitle: "Back-End"
 date: 2020-07-12  
 weight: 70  
 description: News and information about back-end technologies
-type: [[WebDevelopment]]
+type: [[Web Development]]
 ---
 
 * [Top 7 Programming Languages for Backend Web Development](https://www.geeksforgeeks.org/top-7-programming-languages-for-backend-web-development/)

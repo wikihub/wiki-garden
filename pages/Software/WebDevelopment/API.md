@@ -4,7 +4,7 @@ linkTitle: "API"
 date: 2019-04-20
 weight: 70
 description: News and information about API development
-type: [[WebDevelopment]]
+type: [[Web Development]]
 ---
 
 * [Prisma](http://www.prisma.io)

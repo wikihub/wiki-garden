@@ -25,7 +25,7 @@ This document defines the **strict hierarchical structure** of the Wiki Garden. 
 *   `[[Natural Language Processing]]`
 
 ### Web & Applications
-*   `[[WebDevelopment]]`
+*   `[[Web Development]]`
 *   `[[Applications]]`
 *   `[[Games]]`
 
