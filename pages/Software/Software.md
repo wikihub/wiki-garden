@@ -30,7 +30,7 @@ This section covers software development, tools, platforms, and technologies acr
 - [[Natural Language Processing]]
 
 ### Web & Applications
-- [[WebDevelopment]]
+- [[Web Development]]
 - [[Applications]]
 - [[Games]]
 
@@ -89,7 +89,7 @@ This section covers software development, tools, platforms, and technologies acr
   - CARLA
   - Autoware
 
-### Web Development
+### Web Development Stack
 - **Frontend Frameworks:**
   - ReactJS
   - VueJS
