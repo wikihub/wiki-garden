@@ -1,5 +1,3 @@
-
-title:: Node.js
 ---
 title: Node.js
 linkTitle: "Node.js"

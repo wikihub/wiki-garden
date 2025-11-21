@@ -45,7 +45,6 @@ This section covers software development, tools, platforms, and technologies acr
 ## Related Topics
 - [[Enterprise]]
 - [[Freelancing]]
-- [[JavaScript]]
 - [[Linux]]
 - [[Packages]]
 - [[Robotic Process Automation]]
